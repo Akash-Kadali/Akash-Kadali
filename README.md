@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akash-kadali" alt="akash-kadali" /></a> </p>
 
-- 🔭 I’m currently working on [Super Contrastive Approach on Social Media Hate Speech](https://github.com/Akash-Kadali/Face-Recognition-Attendance-System)
+- 🔭 I’m currently working on [Breast Cancer Detection on Histopathological Images](https://github.com/Akash-Kadali/Breast-Cancer-Project-MNIT-Jaipur)
 
 - 📫 How to reach me **akashkadalisri@gmail.com**
 
