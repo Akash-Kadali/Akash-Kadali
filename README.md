@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akash-kadali" alt="akash-kadali" /></a> </p>
 
-- 🔭 I’m currently working on [Breast Cancer Detection on Histopathological Images](https://github.com/Akash-Kadali/Breast-Cancer-Project-MNIT-Jaipur)
+- 🔭 I’m currently working on [[A-Graph-Based-Framework-for-User-Level-Feature-Modeling-with-Contextual-Embeddings]([https://github.com/Akash-Kadali/Breast-Cancer-Project-MNIT-Jaipur](https://github.com/Akash-Kadali/A-Graph-Based-Framework-for-User-Level-Feature-Modeling-with-Contextual-Embeddings))
 
-- 📫 How to reach me **akashkadalisri@gmail.com**
+- 📫 How to reach me **srikadaliakash@gmail.com** or **kadali18@umd.edu**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
