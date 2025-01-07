@@ -24,9 +24,9 @@ This project focuses on **applying contextual embeddings** and **graph-based tec
 
 ## 📚 Education
 - **Master of Science (MS) in Applied Machine Learning**  
-  [University of Maryland, College Park](https://www.umd.edu)  
+  [University of Maryland, College Park](https://www.umd.edu)  (Class of 2025, CGPA: 3.78/4)
 - **Bachelor of Technology (B.Tech) in Information Technology**  
-  [IIIT Vadodara](https://www.iiitvadodara.ac.in) (Class of 2025, CGPA: 7.7/10)
+  [IIIT Vadodara](https://www.iiitvadodara.ac.in) (Class of 2020-24, CGPA: 8.78/10)
 
 ---
 
