@@ -25,7 +25,7 @@ This project focuses on **applying contextual embeddings** and **graph-based tec
 ## 📚 Education
 - **Master of Science (MS) in Applied Machine Learning**  
   [University of Maryland, College Park](https://www.umd.edu)  (Class of 2025, CGPA: 3.78/4)
-- **Bachelor of Technology (B.Tech) in Information Technology**  
+- **Bachelor of Technology (B.Tech) in Computer Science and Engineering**  
   [IIIT Vadodara](https://www.iiitvadodara.ac.in) (Class of 2020-24, CGPA: 8.78/10)
 
 ---
@@ -81,21 +81,14 @@ This project focuses on **applying contextual embeddings** and **graph-based tec
 - **Projects**:
   - [CaDT-Net-A-Cascaded-Deformable-Transformer-Network](https://github.com/Akash-Kadali/CaDT-Net-A-Cascaded-Deformable-Transformer-Network)
     
-  - [Supervised-Contrastive-Learning-with-Attention-Emotion-Synthesis-for-Implicit-Hate-Speech-Detection]((https://github.com/Akash-Kadali/Supervised-Contrastive-Learning-with-Attention-Emotion-Synthesis-for-Implicit-Hate-Speech-Detection))
+  - [Supervised-Contrastive-Learning-with-Attention-Emotion-Synthesis-for-Implicit-Hate-Speech-Detection](https://github.com/Akash-Kadali/Supervised-Contrastive-Learning-with-Attention-Emotion-Synthesis-for-Implicit-Hate-Speech-Detection)
     
   - [DiagnoSys - An All-in-One Medical Solution WebApp](https://github.com/Akash-Kadali/DiagnoSys)
 
 ---
 
 ## 🤝 Connect with Me
-<p>
-  <a href="https://linkedin.com/in/sri-akash-kadali" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="40"/>
-  </a>
-  <a href="mailto:srikadaliakash@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Email" width="40" height="40"/>
-  </a>
-</p>
+<p align="center"> <a href="https://linkedin.com/in/sri-akash-kadali" target="_blank"> <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn" width="40" height="40"/> </a> <a href="mailto:srikadaliakash@gmail.com" target="_blank"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" alt="Gmail" width="40" height="40"/> </a> </p>
 
 ---
 
