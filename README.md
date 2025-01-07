@@ -10,6 +10,7 @@
 </p>
 
 ---
+📄 [View My Resume](https://github.com/Akash-Kadali/Akash-Kadali/blob/main/SriKadali_Resume.pdf)
 
 ## 🔭 Current Work
 I'm working on **[A Graph-Based Framework for User-Level Feature Modeling with Contextual Embeddings](https://github.com/Akash-Kadali/A-Graph-Based-Framework-for-User-Level-Feature-Modeling-with-Contextual-Embeddings)**.  
