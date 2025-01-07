@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akash-kadali" alt="akash-kadali" /></a> </p>
 
-- 🔭 I’m currently working on [[A-Graph-Based-Framework-for-User-Level-Feature-Modeling-with-Contextual-Embeddings]([https://github.com/Akash-Kadali/Breast-Cancer-Project-MNIT-Jaipur](https://github.com/Akash-Kadali/A-Graph-Based-Framework-for-User-Level-Feature-Modeling-with-Contextual-Embeddings))
+- 🔭 I’m currently working on [[A-Graph-Based-Framework-for-User-Level-Feature-Modeling-with-Contextual-Embeddings]]([https://github.com/Akash-Kadali/Breast-Cancer-Project-MNIT-Jaipur](https://github.com/Akash-Kadali/A-Graph-Based-Framework-for-User-Level-Feature-Modeling-with-Contextual-Embeddings))
 
 - 📫 How to reach me **srikadaliakash@gmail.com** or **kadali18@umd.edu**
 
