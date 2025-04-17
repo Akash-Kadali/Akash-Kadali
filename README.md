@@ -78,17 +78,28 @@ Joining the **Laser Engineering** division to deploy a high-throughput **AI-powe
 
 ---
 
-## 🧪 Research & Experience
+## 💼 Experience
 
-### 🧠 **AI Research Intern** — *IIT Indore*  
-📆 May–Dec 2023, Jul–Dec 2024  
-- Worked on **implicit hate speech detection** using **Supervised Contrastive Learning** with attention-based emotion synthesis  
-- Integrated **user-level graph features** and **GraphSAGE embeddings** to boost F1 from 87% → 97%  
+### **Machine Learning Intern**  
+**Indian Institute of Technology, Indore** — *May 2023 – Dec 2023*  
+- Designed and deployed an **AI-based visual inspection system** to automate semiconductor defect detection, enhancing accuracy and throughput.  
+- Applied **transfer learning** on CNN architectures for classifying photonic component defects with high precision.  
+- Built end-to-end pipelines for **optical I/O image analysis** using **Python, TensorFlow, PyTorch**, and integrated **OpenCV** for preprocessing.  
+- Conducted **statistical error analysis** using SciPy, improving model interpretability and robustness.
 
-### 🔍 **RA – Medical AI Lab** — *NIT Jaipur*  
-📆 Jan–Jun 2024  
-- Contributed to **image segmentation research** in radiology using **transformers** and **custom loss functions**  
-- Created dataset augmentation and pre-processing pipelines for imbalanced multi-class datasets
+### **Machine Learning Intern**  
+**National Institute of Technology, Jaipur** — *Jan 2024 – Jun 2024*  
+- Developed a high-fidelity **image processing system** for optical chiplet quality assessment using **deep segmentation networks**.  
+- Optimized a **real-time visual inspection pipeline** using OpenCV and PyTorch, reducing manual inspection time by 40%.  
+- Built scalable AI models to classify photonics-based defects, accelerating detection cycles while minimizing false positives.  
+- Enhanced inference latency through **model pruning and real-time GPU execution** for inspection workloads.
+
+### **Machine Learning Intern**  
+**Indian Institute of Technology, Indore** — *Jul 2024 – Dec 2024*  
+- Built a **defect classification model** for laser-engineered photonic chips using **AI-powered pattern recognition**.  
+- Engineered **AI pipelines for silicon photonics characterization**, simulating Ayar Labs’ high-resolution imaging systems.  
+- Applied **probabilistic modeling and statistical learning** to improve model confidence in critical inspection tasks.  
+- Collaborated on **industry-facing research projects** integrating ML with optical hardware systems for next-gen semiconductor analysis.
 
 ---
 
