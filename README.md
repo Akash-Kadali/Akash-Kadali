@@ -86,8 +86,9 @@ I’m currently a **Machine Learning Intern at Ayar Labs** (San Jose, CA), worki
 ---
 
 ## 💼 Professional Experience
-- **Research Assistant, Indian Institute of Technology Indore**  
-  Conducted cutting-edge research in **Graph Neural Networks** and **User Feature Modeling**.
+- **Research Assistant, Indian Institute of Technology Indore May 2023 - December 2023**
+- **Research Assistant, National Institute of Technology Jaipur Jan 2024 - June 2024**
+- **Research Assistant, Indian Institute of Technology Indore July 2024 - December 2024**  
 
 - **Projects**:
   - [CaDT-Net-A-Cascaded-Deformable-Transformer-Network](https://github.com/Akash-Kadali/CaDT-Net-A-Cascaded-Deformable-Transformer-Network)
