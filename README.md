@@ -11,20 +11,15 @@
 
 ---
 
-Perfect! Here's a tailored **GitHub `README.md` section** you can copy-paste directly into your profile:
-
----
-
 ## 🔭 Current Work
 
-I’m currently a **Machine Learning Intern at Ayar Labs** (San Jose, CA), working with the **Laser Engineering** team on cutting-edge **silicon photonics**.
+I will be joining the **Machine Learning Internship Program at Ayar Labs** (San Jose, CA) in **May 2025**, as part of the **Laser Engineering** team working on next-generation **silicon photonics**.
 
-🚀 Building an **AI-powered visual inspection system** for high-resolution image analysis of optical I/O chiplets.  
-🧠 Leveraging **CNNs, YOLO, Vision Transformers**, and **statistical modeling** to detect and classify photonic component defects.  
-🔬 Focused on accelerating chip development cycles and reducing inspection costs using deep learning and computer vision.
+📦 Currently preparing for my project: an **AI-powered visual inspection system** for analyzing optical I/O chiplets.  
+🧠 Planning to use **CNNs, YOLO, Vision Transformers**, and **statistical modeling** to detect and classify photonic component defects.  
+🔬 Excited to contribute to accelerating chip development and reducing inspection costs through advanced deep learning and computer vision techniques.
 
 ---
-
 
 ## 🌱 Areas of Interest
 - Machine Learning and Deep Learning
