@@ -1,76 +1,102 @@
-<h1 align="center">👋 Hello, I'm Akash Kadali</h1>
-<h2 align="center">Aspiring Machine Learning Engineer | AI & Deep Learning Enthusiast</h2>
+<h1 align="center">👋 Hi, I'm Akash Kadali</h1>
+<h2 align="center">Machine Learning Engineer in Training | AI & Deep Learning Enthusiast</h2>
 
 ---
 
 <p align="center">
   <a href="https://github.com/Akash-Kadali">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=33A1FD&width=435&lines=Passionate+about+Machine+Learning+and+AI;Eager+to+Push+the+Boundaries+of+AI;Always+Learning+and+Building" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=33A1FD&width=435&lines=Driven+by+Curiosity+in+AI+and+ML;Building+Intelligent+Systems+for+Real+Impact;Passionate+Lifelong+Learner+%26+Problem+Solver" alt="Typing SVG" />
   </a>
 </p>
 
 ---
 
-## 🔭 Current Work
+## 🔭 Upcoming Internship
 
-I will be joining the **Machine Learning Internship Program at Ayar Labs** (San Jose, CA) in **May 2025**, as part of the **Laser Engineering** team working on next-generation **silicon photonics**.
+I will be joining **Ayar Labs** (San Jose, CA) as a **Machine Learning Intern** in **May 2025**, under the **Laser Engineering** team, contributing to next-generation **silicon photonics**.
 
-📦 Currently preparing for my project: an **AI-powered visual inspection system** for analyzing optical I/O chiplets.  
-🧠 Planning to use **CNNs, YOLO, Vision Transformers**, and **statistical modeling** to detect and classify photonic component defects.  
-🔬 Excited to contribute to accelerating chip development and reducing inspection costs through advanced deep learning and computer vision techniques.
-
----
-
-## 🌱 Areas of Interest
-- Machine Learning and Deep Learning
-- Reinforcement Learning and Multi-Agent Systems
-- Computer Vision and Natural Language Processing (NLP)
-- Advanced Mathematics for AI (Linear Algebra, Probability, Optimization)
-- Scalable AI Solutions and Deployment
-
-## 📚 Education
-- **Master of Science (MS) in Applied Machine Learning**  
-  [University of Maryland, College Park](https://www.umd.edu)  (Class of 2025, CGPA: 3.78/4)
-- **Bachelor of Technology (B.Tech) in Computer Science and Engineering**  
-  [IIIT Vadodara](https://www.iiitvadodara.ac.in) (Class of 2020-24, CGPA: 8.78/10)
+🚀 Preparing to build an **AI-powered visual inspection system** for high-resolution chiplet analysis.  
+🧠 Leveraging **Convolutional Neural Networks (CNNs)**, **YOLO**, **Vision Transformers**, and **statistical models** to detect and classify photonic component defects.  
+🔬 Goal: Optimize the chip inspection pipeline and reduce development costs through cutting-edge ML and computer vision techniques.
 
 ---
 
-## 📈 Skills and Technologies
+## 🌱 Research & Technical Interests
 
-### **Programming Languages**
-<p>
-  <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/></a>
-  <a href="https://www.cprogramming.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="50" height="50"/></a>
-  <a href="https://www.w3schools.com/cpp/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50"/></a>
-  <a href="https://www.java.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" height="50"/></a>
-</p>
-
-### **Machine Learning and Deep Learning Frameworks**
-<p>
-  <a href="https://pytorch.org"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="50" height="50"/></a>
-  <a href="https://www.tensorflow.org"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="50" height="50"/></a>
-  <a href="https://scikit-learn.org"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-Learn" width="50" height="50"/></a>
-</p>
-
-### **Data Science Tools**
-<p>
-  <a href="https://pandas.pydata.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="50" height="50"/></a>
-  <a href="https://numpy.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="NumPy" width="50" height="50"/></a>
-  <a href="https://seaborn.pydata.org/"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="50" height="50"/></a>
-  <a href="https://matplotlib.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" width="50" height="50"/></a>
-</p>
-
-### **Other Tools and Technologies**
-<p>
-  <a href="https://opencv.org/"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="50" height="50"/></a>
-  <a href="https://www.docker.com/"><img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="Docker" width="50" height="50"/></a>
-  <a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="50" height="50"/></a>
-</p>
+- Deep Learning & Machine Learning  
+- Computer Vision & Generative AI  
+- NLP, Transfer Learning, and Prompt Engineering  
+- Multi-Agent Systems and Reinforcement Learning  
+- Scalable AI Systems, MLOps, and Deployment Pipelines  
+- Applied Mathematics (Optimization, Linear Algebra, Probability)
 
 ---
 
-## 📊 GitHub Stats
+## 🎓 Education
+
+- **M.S. in Applied Machine Learning**  
+  _University of Maryland, College Park_ (2024 – 2026)  
+  CGPA: 3.78/4.00  
+
+- **B.Tech in Computer Science and Engineering**  
+  _Indian Institute of Information Technology (IIIT) Vadodara ICD_ (2020 – 2024)  
+  CGPA: 8.78/10  
+
+---
+
+## 🛠️ Technical Skills
+
+### Programming Languages  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)  
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white)  
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+
+### ML/DL Frameworks  
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)  
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)  
+![scikit-learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+
+### Data Science & Visualization  
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)  
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)  
+![Seaborn](https://img.shields.io/badge/-Seaborn-FFFFFF?style=flat&logo=python&logoColor=blue)  
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat&logo=python&logoColor=white)
+
+### Tools & Platforms  
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)  
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)  
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+
+---
+
+## 💼 Experience
+
+### **Research Assistant**
+- **IIT Indore**  
+  May 2023 – Dec 2023  
+  Jul 2024 – Dec 2024  
+
+- **NIT Jaipur**  
+  Jan 2024 – Jun 2024  
+
+**Focus:**  
+- Implicit hate speech detection using attention-based contrastive learning.  
+- Image segmentation and defect detection using CNNs and Transformers.  
+- Published open-source implementations and presented results to domain experts.
+
+---
+
+## 🚀 Notable Projects
+
+- 🔗 [**CaDT-Net**: A Cascaded Deformable Transformer Network for Image Segmentation](https://github.com/Akash-Kadali/CaDT-Net-A-Cascaded-Deformable-Transformer-Network)  
+- 🔗 [**Supervised Contrastive Learning for Hate Speech Detection**](https://github.com/Akash-Kadali/Supervised-Contrastive-Learning-with-Attention-Emotion-Synthesis-for-Implicit-Hate-Speech-Detection)  
+- 🔗 [**DiagnoSys**: Full-Stack AI-powered Medical Web App](https://github.com/Akash-Kadali/DiagnoSys)
+
+---
+
+## 📊 GitHub Activity
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=akash-kadali&show_icons=true&hide_title=true&count_private=true&theme=radical" alt="GitHub Stats" />
 </p>
@@ -80,24 +106,18 @@ I will be joining the **Machine Learning Internship Program at Ayar Labs** (San 
 
 ---
 
-## 💼 Professional Experience
-- **Research Assistant, Indian Institute of Technology Indore May 2023 - December 2023**
-- **Research Assistant, National Institute of Technology Jaipur Jan 2024 - June 2024**
-- **Research Assistant, Indian Institute of Technology Indore July 2024 - December 2024**  
+## 🤝 Let’s Connect
 
-- **Projects**:
-  - [CaDT-Net-A-Cascaded-Deformable-Transformer-Network](https://github.com/Akash-Kadali/CaDT-Net-A-Cascaded-Deformable-Transformer-Network)
-    
-  - [Supervised-Contrastive-Learning-with-Attention-Emotion-Synthesis-for-Implicit-Hate-Speech-Detection](https://github.com/Akash-Kadali/Supervised-Contrastive-Learning-with-Attention-Emotion-Synthesis-for-Implicit-Hate-Speech-Detection)
-    
-  - [DiagnoSys - An All-in-One Medical Solution WebApp](https://github.com/Akash-Kadali/DiagnoSys)
-
----
-
-## 🤝 Connect with Me
-<p align="center"> <a href="https://linkedin.com/in/sri-akash-kadali" target="_blank"> <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn" width="40" height="40"/> </a> <a href="mailto:srikadaliakash@gmail.com" target="_blank"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" alt="Gmail" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://linkedin.com/in/sri-akash-kadali" target="_blank">
+    <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn" width="40" />
+  </a>
+  <a href="mailto:srikadaliakash@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/fluent/48/000000/gmail.png" alt="Gmail" width="40" />
+  </a>
+</p>
 
 ---
 
 ## 🌟 Fun Fact
-I’m an avid problem-solver who loves delving into **complex ML challenges** and enjoys **exploring new technologies** during my free time!
+I'm an enthusiastic learner who enjoys solving real-world AI challenges and staying updated with the latest in machine learning and intelligent systems. When I'm not coding, I’m likely diving into research papers or experimenting with new model architectures!
