@@ -19,13 +19,7 @@ I specialize in **AI-first system design** for complex imaging and language task
 
 ## 🎯 What I’m Up To
 
-### 💼 **Intern @ Ayar Labs** — *Summer 2025 | San Jose, CA*  
-Joining the **Laser Engineering** division to deploy a high-throughput **AI-powered chip inspection system**.  
 
-**Scope**:
-- **CNNs**, **YOLO**, **Vision Transformers**, **Bayesian Models**
-- Semantic segmentation + defect classification on optical chiplets
-- Enhancing yield pipeline using AI-integrated photonic systems
 
 ---
 
