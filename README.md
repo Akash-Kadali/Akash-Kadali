@@ -11,7 +11,7 @@
 
 ## 📍 About Me
 
-Welcome! I'm **Akash Kadali**, a graduate student in **Applied Machine Learning** at **UMD College Park** and an incoming **Machine Learning Intern** at **Ayar Labs**, Silicon Valley’s pioneer in **optical I/O chiplets**.
+Welcome! I'm **Akash Kadali**, a graduate student in **Applied Machine Learning** at **UMD College Park**
 
 I specialize in **AI-first system design** for complex imaging and language tasks. Whether it's **building intelligent visual inspection systems** or **researching contrastive learning in NLP**, I aim to merge deep learning theory with impactful real-world applications.
 
