@@ -3,9 +3,15 @@
 <h3 align="center"><em>Applied AI Engineer · Vision Systems Specialist · ML Researcher</em></h3>
 
 <p align="center">
-  <a href="https://github.com/Akash-Kadali">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F5D4&width=700&lines=Building+Vision+AI+for+Photonic+Systems.;Optimizing+Deep+Learning+at+Scale.;Bridging+AI+Theory+with+Real-World+Impact.">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1200&color=8AFFEF&center=true&vCenter=true&width=800&lines=👨‍💻+Applied+ML+Engineer+at+Work.;🧠+Transformers+|+CUDA+|+Vision+Systems.;🌌+Pushing+AI+Beyond+Limits." />
+</p>
+
+<p align="center">
+  <a href="https://srikadali.com">
+    <img src="https://github.com/Akash-Kadali/assets/blob/main/ml-3d-preview.gif" width="650" alt="3D Portfolio Preview" />
   </a>
+  <br/>
+  <sub><i>🌀 Interactive ML Portfolio – Click to Visit</i></sub>
 </p>
 
 ---
@@ -41,10 +47,10 @@ Hey! I'm **Sri Akash Kadali**, a graduate student at **UMD College Park** pursui
 
 ## 🛠️ Tech Stack
 
-![LLMs](https://img.shields.io/badge/LLMs-Transformers-blue?style=for-the-badge&logo=OpenAI)
-![Vision](https://img.shields.io/badge/Computer%20Vision-Deep%20Learning-orange?style=for-the-badge&logo=opencv)
-![CUDA](https://img.shields.io/badge/CUDA-Optimized%20Inference-2C8EBB?style=for-the-badge&logo=nvidia)
-![Docker](https://img.shields.io/badge/Docker-Containerization-2496ED?style=for-the-badge&logo=docker)
+![Transformer](https://img.shields.io/badge/Transformers-🔥_HuggingFace-yellow?style=for-the-badge&logo=python)
+![CUDA](https://img.shields.io/badge/CUDA-GPU%20Accelerated%20Inference-76B900?style=for-the-badge&logo=nvidia)
+![Vision](https://img.shields.io/badge/Computer%20Vision-Optical%20AI%20Pipelines-3E9CD2?style=for-the-badge&logo=opencv)
+![MLOps](https://img.shields.io/badge/MLOps-Containerized%20ML-blue?style=for-the-badge&logo=docker)
 ![PyTorch](https://img.shields.io/badge/PyTorch-Framework-EE4C2C?style=for-the-badge&logo=pytorch)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-Framework-FF6F00?style=for-the-badge&logo=tensorflow)
 
@@ -69,27 +75,24 @@ Hey! I'm **Sri Akash Kadali**, a graduate student at **UMD College Park** pursui
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
 <table>
   <tr>
-    <td align="center" width="33%">
-      <a href="https://github.com/Akash-Kadali/DiagnoSys">
-        <img src="https://github.com/Akash-Kadali/assets/blob/main/diagnosys.png" width="200"/><br/>
-        <sub><b>DiagnoSys</b></sub>
-      </a>
+    <td width="33%" align="center">
+      <img src="https://github.com/Akash-Kadali/assets/blob/main/diagnosys.png" width="200"/><br/>
+      <a href="https://github.com/Akash-Kadali/DiagnoSys"><b>DiagnoSys</b></a><br/>
+      <sub><i>AI Health Diagnostics System</i></sub>
     </td>
-    <td align="center" width="33%">
-      <a href="https://github.com/Akash-Kadali/CaDT-Net">
-        <img src="https://github.com/Akash-Kadali/assets/blob/main/cadtnet.png" width="200"/><br/>
-        <sub><b>CaDT-Net</b></sub>
-      </a>
+    <td width="33%" align="center">
+      <img src="https://github.com/Akash-Kadali/assets/blob/main/cadtnet.png" width="200"/><br/>
+      <a href="https://github.com/Akash-Kadali/CaDT-Net"><b>CaDT-Net</b></a><br/>
+      <sub><i>Deformable Transformer for Med Segmentation</i></sub>
     </td>
-    <td align="center" width="33%">
-      <a href="https://github.com/Akash-Kadali/Supervised-Contrastive-Learning-with-Attention-Emotion-Synthesis-for-Implicit-Hate-Speech-Detection">
-        <img src="https://github.com/Akash-Kadali/assets/blob/main/emotionfusion.png" width="200"/><br/>
-        <sub><b>Contrastive Emotion Fusion</b></sub>
-      </a>
+    <td width="33%" align="center">
+      <img src="https://github.com/Akash-Kadali/assets/blob/main/emotionfusion.png" width="200"/><br/>
+      <a href="https://github.com/Akash-Kadali/Supervised-Contrastive-Learning-with-Attention-Emotion-Synthesis-for-Implicit-Hate-Speech-Detection"><b>Contrastive Emotion Fusion</b></a><br/>
+      <sub><i>Contrastive Attention for Hate Speech</i></sub>
     </td>
   </tr>
 </table>
