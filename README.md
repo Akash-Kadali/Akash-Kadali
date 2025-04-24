@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://srikadali.com">
-    <img src="https://github.com/Akash-Kadali/assets/blob/main/ml-3d-preview.gif" width="650" alt="3D Portfolio Preview" />
+    <img src="https://raw.githubusercontent.com/Akash-Kadali/assets/main/ml-3d-preview.gif" width="650" alt="3D Portfolio Preview" />
   </a>
   <br/>
   <sub><i>🌀 Interactive ML Portfolio – Click to Visit</i></sub>
@@ -80,17 +80,17 @@ Hey! I'm **Sri Akash Kadali**, a graduate student at **UMD College Park** pursui
 <table>
   <tr>
     <td width="33%" align="center">
-      <img src="https://github.com/Akash-Kadali/assets/blob/main/diagnosys.png" width="200"/><br/>
+      <img src="https://raw.githubusercontent.com/Akash-Kadali/assets/main/diagnosys.png" width="200"/><br/>
       <a href="https://github.com/Akash-Kadali/DiagnoSys"><b>DiagnoSys</b></a><br/>
       <sub><i>AI Health Diagnostics System</i></sub>
     </td>
     <td width="33%" align="center">
-      <img src="https://github.com/Akash-Kadali/assets/blob/main/cadtnet.png" width="200"/><br/>
+      <img src="https://raw.githubusercontent.com/Akash-Kadali/assets/main/cadtnet.png" width="200"/><br/>
       <a href="https://github.com/Akash-Kadali/CaDT-Net"><b>CaDT-Net</b></a><br/>
       <sub><i>Deformable Transformer for Med Segmentation</i></sub>
     </td>
     <td width="33%" align="center">
-      <img src="https://github.com/Akash-Kadali/assets/blob/main/emotionfusion.png" width="200"/><br/>
+      <img src="https://raw.githubusercontent.com/Akash-Kadali/assets/main/emotionfusion.png" width="200"/><br/>
       <a href="https://github.com/Akash-Kadali/Supervised-Contrastive-Learning-with-Attention-Emotion-Synthesis-for-Implicit-Hate-Speech-Detection"><b>Contrastive Emotion Fusion</b></a><br/>
       <sub><i>Contrastive Attention for Hate Speech</i></sub>
     </td>
