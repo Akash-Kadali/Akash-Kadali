@@ -113,13 +113,21 @@ A full-stack AI-based **health diagnostics app** with symptom triage, doctor con
 ## 📈 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akash-kadali&show_icons=true&theme=algolia&count_private=true&hide_border=true&hide_title=true" width="480">
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akash-kadali&layout=compact&theme=algolia&hide_border=true" width="350">
+  <img src="https://github-readme-stats.vercel.app/api?username=akash-kadali&show_icons=true&theme=algolia&count_private=true&hide_border=true&hide_title=true" width="480" alt="GitHub Stats"/>
 </p>
 
----
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akash-kadali&layout=compact&theme=algolia&hide_border=true&langs_count=8" width="350" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=akash-kadali&theme=algolia&hide_border=true" width="480" alt="GitHub Streak Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akash-kadali&theme=github_dark" width="480" alt="GitHub Summary Card"/>
+</p>
+
 
 ## 🌐 Let's Connect
 
