@@ -1,9 +1,10 @@
+---
 <h1 align="center">🚀 Sri Akash Kadali</h1>
-<h3 align="center"><em>Machine Learning Engineer in Training · Applied AI Researcher · Computer Vision Specialist</em></h3>
+<h3 align="center"><em>Applied AI Engineer · Vision Systems Specialist · ML Researcher</em></h3>
 
 <p align="center">
   <a href="https://github.com/Akash-Kadali">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F5D4&width=600&lines=Designing+Vision+Systems+for+Photonics.;Optimizing+Deep+Learning+Models+at+Scale.;Exploring+the+Frontiers+of+Applied+AI.">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F5D4&width=700&lines=Building+Vision+AI+for+Photonic+Systems.;Optimizing+Deep+Learning+at+Scale.;Bridging+AI+Theory+with+Real-World+Impact.">
   </a>
 </p>
 
@@ -11,128 +12,108 @@
 
 ## 📍 About Me
 
-Welcome! I'm **Akash Kadali**, a graduate student in **Applied Machine Learning** at **UMD College Park**
+Hey! I'm **Sri Akash Kadali**, a graduate student at **UMD College Park** pursuing a Master’s in **Applied Machine Learning**.
 
-I specialize in **AI-first system design** for complex imaging and language tasks. Whether it's **building intelligent visual inspection systems** or **researching contrastive learning in NLP**, I aim to merge deep learning theory with impactful real-world applications.
-
----
-
-## 🎯 What I’m Up To
-
-
+⚙️ I build intelligent systems for image analysis, computer vision, and language modeling. From optical chip inspection to NLP contrastive learning — I create models that matter.
 
 ---
 
-## 🧠 Research Interests
+## 🧠 Interests
 
-- 🔍 Neural Architectures: CNNs, Transformers, RNNs  
-- 🧬 Generative AI: Diffusion Models, Prompt Engineering  
-- 🖼️ Computer Vision: Visual Inspection, Segmentation, OCR  
-- 📊 Statistical Modeling: Uncertainty, Imbalance, Feature Selection  
-- 🧠 RL & Multi-Agent Learning  
-- ⚙️ Deployment: MLOps, Scalable Systems, GPU Acceleration
+- 🔍 Neural Networks – CNNs, Transformers, RNNs
+- 🌌 Generative AI – Diffusion, Prompt Engineering
+- 🖼️ Vision Systems – Segmentation, OCR, Defect Detection
+- 📊 Statistics – Uncertainty, Feature Selection, Imbalance
+- 🔁 RL & Multi-Agent Learning
+- ⚙️ MLOps – Scalable Inference, GPU Systems, Docker
 
 ---
 
 ## 🎓 Education
 
-### 🎓 **University of Maryland, College Park**  
-**M.S. in Applied Machine Learning** *(2024 – 2026)*  
-**GPA**: 3.78/4.0  
+**🎓 University of Maryland, College Park**  
+*M.S. Applied Machine Learning (2024–26)* — GPA: 3.78/4.0  
 
-### 🎓 **IIIT Vadodara (ICD Campus)**  
-**B.Tech in Computer Science and Engineering** *(2020 – 2024)*  
-**GPA**: 8.78/10
+**🎓 IIIT Vadodara (ICD Campus)**  
+*B.Tech CSE (2020–24)* — GPA: 8.78/10  
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 🧾 Languages  
-![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
-
-### 🔮 Frameworks & Libraries  
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)  
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)  
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
-
-### 📊 Data Science & Visualization  
-![NumPy](https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy)  
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas)  
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=python)  
-![Seaborn](https://img.shields.io/badge/Seaborn-004D99?style=flat)
-
-### 🧰 DevOps & Tools  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)  
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)  
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![LLMs](https://img.shields.io/badge/LLMs-Transformers-blue?style=for-the-badge&logo=OpenAI)
+![Vision](https://img.shields.io/badge/Computer%20Vision-Deep%20Learning-orange?style=for-the-badge&logo=opencv)
+![CUDA](https://img.shields.io/badge/CUDA-Optimized%20Inference-2C8EBB?style=for-the-badge&logo=nvidia)
+![Docker](https://img.shields.io/badge/Docker-Containerization-2496ED?style=for-the-badge&logo=docker)
+![PyTorch](https://img.shields.io/badge/PyTorch-Framework-EE4C2C?style=for-the-badge&logo=pytorch)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-Framework-FF6F00?style=for-the-badge&logo=tensorflow)
 
 ---
 
 ## 💼 Experience
 
-### **Machine Learning Intern**  
-**Indian Institute of Technology, Indore** — *May 2023 – Dec 2023*  
-- Designed and deployed an **AI-based visual inspection system** to automate semiconductor defect detection, enhancing accuracy and throughput.  
-- Applied **transfer learning** on CNN architectures for classifying photonic component defects with high precision.  
-- Built end-to-end pipelines for **optical I/O image analysis** using **Python, TensorFlow, PyTorch**, and integrated **OpenCV** for preprocessing.  
-- Conducted **statistical error analysis** using SciPy, improving model interpretability and robustness.
+### 🔬 ML Intern – IIT Indore *(May–Dec 2023)*
+- Built a **vision-based defect detector** for semiconductors
+- Used **CNNs + Transfer Learning** on chip images
+- Developed pipelines with **PyTorch + OpenCV**
 
-### **Machine Learning Intern**  
-**National Institute of Technology, Jaipur** — *Jan 2024 – Jun 2024*  
-- Developed a high-fidelity **image processing system** for optical chiplet quality assessment using **deep segmentation networks**.  
-- Optimized a **real-time visual inspection pipeline** using OpenCV and PyTorch, reducing manual inspection time by 40%.  
-- Built scalable AI models to classify photonics-based defects, accelerating detection cycles while minimizing false positives.  
-- Enhanced inference latency through **model pruning and real-time GPU execution** for inspection workloads.
+### 🧠 ML Intern – NIT Jaipur *(Jan–Jun 2024)*
+- Engineered a **real-time chip inspection system**
+- Applied **segmentation networks** for fault detection
+- Optimized with **GPU-based inference + model pruning**
 
-### **Machine Learning Intern**  
-**Indian Institute of Technology, Indore** — *Jul 2024 – Dec 2024*  
-- Built a **defect classification model** for laser-engineered photonic chips using **AI-powered pattern recognition**.  
-- Engineered **AI pipelines for silicon photonics characterization**, simulating Ayar Labs’ high-resolution imaging systems.  
-- Applied **probabilistic modeling and statistical learning** to improve model confidence in critical inspection tasks.  
-- Collaborated on **industry-facing research projects** integrating ML with optical hardware systems for next-gen semiconductor analysis.
+### 🧪 ML Intern – IIT Indore *(Jul–Dec 2024)*
+- Created **pattern recognition models** for photonic chips
+- Simulated imaging pipelines for **optical components**
+- Collaborated on **industry-grade AI systems**
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
-### 🌌 [CaDT-Net](https://github.com/Akash-Kadali/CaDT-Net-A-Cascaded-Deformable-Transformer-Network)  
-A **Cascaded Deformable Transformer Network** for dense medical image segmentation.
-
-### 🧠 [Contrastive Emotion Fusion](https://github.com/Akash-Kadali/Supervised-Contrastive-Learning-with-Attention-Emotion-Synthesis-for-Implicit-Hate-Speech-Detection)  
-Attention-augmented contrastive learning model for classifying **subtle hate speech** on social platforms.
-
-### 🏥 [DiagnoSys](https://github.com/Akash-Kadali/DiagnoSys)  
-A full-stack AI-based **health diagnostics app** with symptom triage, doctor connect, and real-time predictions.
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://github.com/Akash-Kadali/DiagnoSys">
+        <img src="https://github.com/Akash-Kadali/assets/blob/main/diagnosys.png" width="200"/><br/>
+        <sub><b>DiagnoSys</b></sub>
+      </a>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/Akash-Kadali/CaDT-Net">
+        <img src="https://github.com/Akash-Kadali/assets/blob/main/cadtnet.png" width="200"/><br/>
+        <sub><b>CaDT-Net</b></sub>
+      </a>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/Akash-Kadali/Supervised-Contrastive-Learning-with-Attention-Emotion-Synthesis-for-Implicit-Hate-Speech-Detection">
+        <img src="https://github.com/Akash-Kadali/assets/blob/main/emotionfusion.png" width="200"/><br/>
+        <sub><b>Contrastive Emotion Fusion</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 📈 GitHub Insights
+## 📈 GitHub Highlights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akash-kadali&show_icons=true&theme=algolia&count_private=true&hide_border=true&hide_title=true" width="480" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=akash-kadali&show_icons=true&theme=algolia&count_private=true&hide_border=true&hide_title=true" width="480" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akash-kadali&layout=compact&theme=algolia&hide_border=true&langs_count=8" width="350" />
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=akash-kadali&theme=algolia&hide_border=true" width="480" />
+  <br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akash-kadali&theme=github_dark" width="480" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akash-kadali&layout=compact&theme=algolia&hide_border=true&langs_count=8" width="350" alt="Top Languages"/>
-</p>
+---
+
+## 🌐 Connect with Me
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=akash-kadali&theme=algolia&hide_border=true" width="480" alt="GitHub Streak Stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akash-kadali&theme=github_dark" width="480" alt="GitHub Summary Card"/>
-</p>
-
-
-## 🌐 Let's Connect
-
-<p align="center">
-  <a href="https://linkedin.com/in/sri-akash-kadali" target="_blank">
+  <a href="https://linkedin.com/in/sri-akash-kadali">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:srikadaliakash@gmail.com">
@@ -142,6 +123,8 @@ A full-stack AI-based **health diagnostics app** with symptom triage, doctor con
 
 ---
 
-## 🎉 Fun Fact  
-When I'm not optimizing deep learning models or coding vision pipelines, I'm likely reading AI whitepapers or dreaming of the next breakthrough in computational cognition.  
-Coffee + CUDA = 🔥
+## 🎉 Fun Fact
+
+⚡ Outside ML, I’m geeking out on whitepapers or imagining what AI looks like in 2030. 
+
+☕ Fuel = Coffee + CUDA + Curiosity
