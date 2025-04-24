@@ -1,119 +1,75 @@
 ---
-<h1 align="center">🚀 Sri Akash Kadali</h1>
-<h3 align="center"><em>Applied AI Engineer · Vision Systems Specialist · ML Researcher</em></h3>
+<h1 align="center">🙏🏻 I'm Sri Akash Kadali!</h1>
+<h3 align="center"><em>Engineer @ Ayar Labs | Applied ML Student @ UMD | Vision Systems & CUDA Enthusiast</em></h3>
+
+---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1200&color=8AFFEF&center=true&vCenter=true&width=800&lines=👨‍💻+Applied+ML+Engineer+at+Work.;🧠+Transformers+|+CUDA+|+Vision+Systems.;🌌+Pushing+AI+Beyond+Limits." />
+  <a href="https://twitter.com/akashkadali">Twitter</a> • 
+  <a href="https://linkedin.com/in/sri-akash-kadali">LinkedIn</a> • 
+  <a href="https://github.com/Akash-Kadali">GitHub</a> • 
+  <a href="https://srikadali.com">Website</a> • 
+  <a href="https://wakatime.com/@akashkadali">WakaTime</a>
 </p>
 
 <p align="center">
-  <a href="https://srikadali.com">
-    <img src="https://raw.githubusercontent.com/Akash-Kadali/assets/main/ml-3d-preview.gif" width="650" alt="3D Portfolio Preview" />
-  </a>
+  📫 Like to meet me?
   <br/>
-  <sub><i>🌀 Interactive ML Portfolio – Click to Visit</i></sub>
-</p>
-
----
-
-## 📍 About Me
-
-Hey! I'm **Sri Akash Kadali**, a graduate student at **UMD College Park** pursuing a Master’s in **Applied Machine Learning**.
-
-⚙️ I build intelligent systems for image analysis, computer vision, and language modeling. From optical chip inspection to NLP contrastive learning — I create models that matter.
-
----
-
-## 🧠 Interests
-
-- 🔍 Neural Networks – CNNs, Transformers, RNNs
-- 🌌 Generative AI – Diffusion, Prompt Engineering
-- 🖼️ Vision Systems – Segmentation, OCR, Defect Detection
-- 📊 Statistics – Uncertainty, Feature Selection, Imbalance
-- 🔁 RL & Multi-Agent Learning
-- ⚙️ MLOps – Scalable Inference, GPU Systems, Docker
-
----
-
-## 🎓 Education
-
-**🎓 University of Maryland, College Park**  
-*M.S. Applied Machine Learning (2024–26)* — GPA: 3.78/4.0  
-
-**🎓 IIIT Vadodara (ICD Campus)**  
-*B.Tech CSE (2020–24)* — GPA: 8.78/10  
-
----
-
-## 🛠️ Tech Stack
-
-![Transformer](https://img.shields.io/badge/Transformers-🔥_HuggingFace-yellow?style=for-the-badge&logo=python)
-![CUDA](https://img.shields.io/badge/CUDA-GPU%20Accelerated%20Inference-76B900?style=for-the-badge&logo=nvidia)
-![Vision](https://img.shields.io/badge/Computer%20Vision-Optical%20AI%20Pipelines-3E9CD2?style=for-the-badge&logo=opencv)
-![MLOps](https://img.shields.io/badge/MLOps-Containerized%20ML-blue?style=for-the-badge&logo=docker)
-![PyTorch](https://img.shields.io/badge/PyTorch-Framework-EE4C2C?style=for-the-badge&logo=pytorch)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-Framework-FF6F00?style=for-the-badge&logo=tensorflow)
-
----
-
-## 💼 Experience
-
-### 🔬 ML Intern – IIT Indore *(May–Dec 2023)*
-- Built a **vision-based defect detector** for semiconductors
-- Used **CNNs + Transfer Learning** on chip images
-- Developed pipelines with **PyTorch + OpenCV**
-
-### 🧠 ML Intern – NIT Jaipur *(Jan–Jun 2024)*
-- Engineered a **real-time chip inspection system**
-- Applied **segmentation networks** for fault detection
-- Optimized with **GPU-based inference + model pruning**
-
-### 🧪 ML Intern – IIT Indore *(Jul–Dec 2024)*
-- Created **pattern recognition models** for photonic chips
-- Simulated imaging pipelines for **optical components**
-- Collaborated on **industry-grade AI systems**
-
----
-
-## 🚀 Featured Projects
-
-<table>
-  <tr>
-    <td width="33%" align="center">
-      <img src="https://raw.githubusercontent.com/Akash-Kadali/assets/main/diagnosys.png" width="200"/><br/>
-      <a href="https://github.com/Akash-Kadali/DiagnoSys"><b>DiagnoSys</b></a><br/>
-      <sub><i>AI Health Diagnostics System</i></sub>
-    </td>
-    <td width="33%" align="center">
-      <img src="https://raw.githubusercontent.com/Akash-Kadali/assets/main/cadtnet.png" width="200"/><br/>
-      <a href="https://github.com/Akash-Kadali/CaDT-Net"><b>CaDT-Net</b></a><br/>
-      <sub><i>Deformable Transformer for Med Segmentation</i></sub>
-    </td>
-    <td width="33%" align="center">
-      <img src="https://raw.githubusercontent.com/Akash-Kadali/assets/main/emotionfusion.png" width="200"/><br/>
-      <a href="https://github.com/Akash-Kadali/Supervised-Contrastive-Learning-with-Attention-Emotion-Synthesis-for-Implicit-Hate-Speech-Detection"><b>Contrastive Emotion Fusion</b></a><br/>
-      <sub><i>Contrastive Attention for Hate Speech</i></sub>
-    </td>
-  </tr>
-</table>
-
----
-
-## 📈 GitHub Highlights
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akash-kadali&show_icons=true&theme=algolia&count_private=true&hide_border=true&hide_title=true" width="480" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akash-kadali&layout=compact&theme=algolia&hide_border=true&langs_count=8" width="350" />
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=akash-kadali&theme=algolia&hide_border=true" width="480" />
-  <br/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akash-kadali&theme=github_dark" width="480" />
+  👉 <a href="https://calendly.com/akashkadali">Book a 1:1 slot here</a> to chat about ML, startups, or CUDA kernels.
 </p>
 
 ---
 
-## 🌐 Connect with Me
+```bash
+npx akashkadali
+```
+
+⬆️ Hit this in your terminal to connect with me in a CLI-style intro.
+
+---
+
+### 🧠 A little more about me...
+```ts
+const akash = {
+  pronouns: "He" | "Him",
+  code: ["Python", "C++", "Java", "JavaScript"],
+  askMeAbout: ["computer vision", "CUDA", "LLMs", "image pipelines"],
+  technologies: {
+    deepLearning: ["PyTorch", "TensorFlow", "Transformers"],
+    vision: ["OpenCV", "Segmentation", "OCR", "Defect Detection"],
+    deployment: ["Docker", "AWS", "FastAPI", "CI/CD"],
+    infra: ["CUDA", "NVIDIA GPU", "Multithreading"],
+    data: ["Pandas", "NumPy", "Matplotlib", "Seaborn"],
+    language: ["NLP", "Contrastive Learning", "BERT", "GPT"],
+    misc: ["Grad-CAM", "SMOTE", "FP16 Optimization"]
+  },
+  currentFocus: "AI-powered visual inspection at photonic scale",
+  funFact: "I can debug CUDA faster after 2 cups of filter coffee ☕",
+};
+```
+
+---
+
+### 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=akash-kadali&show_icons=true&theme=tokyonight&count_private=true" width="480" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akash-kadali&layout=compact&theme=tokyonight" width="350" />
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=akash-kadali&theme=tokyonight" width="480" />
+</p>
+
+---
+
+### 🕒 Developer Breakdown
+
+📅 I'm Most Productive On: **Sundays & Wednesdays**  
+🖥️ Primary Stack: Python • PyTorch • OpenCV • CUDA  
+⚡ Work Hours: Night Owl Mode (10 PM to 4 AM)
+
+---
+
+### 🌐 Connect With Me
 
 <p align="center">
   <a href="https://linkedin.com/in/sri-akash-kadali">
@@ -122,12 +78,11 @@ Hey! I'm **Sri Akash Kadali**, a graduate student at **UMD College Park** pursui
   <a href="mailto:srikadaliakash@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <a href="https://srikadali.com">
+    <img src="https://img.shields.io/badge/Portfolio-Website-green?style=for-the-badge&logo=vercel" />
+  </a>
 </p>
 
 ---
 
-## 🎉 Fun Fact
-
-⚡ Outside ML, I’m geeking out on whitepapers or imagining what AI looks like in 2030. 
-
-☕ Fuel = Coffee + CUDA + Curiosity
+> I love connecting with passionate minds. Whether you're building, learning, or just curious — I'm all ears! 😊
