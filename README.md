@@ -1,88 +1,59 @@
----
-<h1 align="center">🙏🏻 I'm Sri Akash Kadali!</h1>
-<h3 align="center"><em>Engineer @ Ayar Labs | Applied ML Student @ UMD | Vision Systems & CUDA Enthusiast</em></h3>
+# 👋 Hi there, I'm Sri Akash Kadali
+
+**Aspiring Machine Learning Engineer | Computer Vision | LLM Optimization | CUDA Enthusiast**
+
+🔗 **Portfolio:** [srikadali.com](https://www.srikadali.com/)  
+📧 **Email:** srikadali18@gmail.com
 
 ---
 
-<p align="center">
-  <a href="https://twitter.com/akashkadali">Twitter</a> • 
-  <a href="https://linkedin.com/in/sri-akash-kadali">LinkedIn</a> • 
-  <a href="https://github.com/Akash-Kadali">GitHub</a> • 
-  <a href="https://srikadali.com">Website</a> • 
-  <a href="https://wakatime.com/@akashkadali">WakaTime</a>
-</p>
+## 🎓 Education
+- **Master of Engineering in Applied Machine Learning**  
+  *University of Maryland, College Park*  
+  *Expected Graduation: May 2026*
 
-<p align="center">
-  📫 Like to meet me?
-  <br/>
-  👉 <a href="https://calendly.com/akashkadali">Book a 1:1 slot here</a> to chat about ML, startups, or CUDA kernels.
-</p>
+- **Bachelor of Technology in Computer Science and Engineering**  
+  *Indian Institute of Information Technology, Vadodara*  
+  *Graduated: 2024*
 
 ---
 
-```bash
-npx akashkadali
-```
+## 🛠️ Skills
 
-⬆️ Hit this in your terminal to connect with me in a CLI-style intro.
-
----
-
-### 🧠 A little more about me...
-```ts
-const akash = {
-  pronouns: "He" | "Him",
-  code: ["Python", "C++", "Java", "JavaScript"],
-  askMeAbout: ["computer vision", "CUDA", "LLMs", "image pipelines"],
-  technologies: {
-    deepLearning: ["PyTorch", "TensorFlow", "Transformers"],
-    vision: ["OpenCV", "Segmentation", "OCR", "Defect Detection"],
-    deployment: ["Docker", "AWS", "FastAPI", "CI/CD"],
-    infra: ["CUDA", "NVIDIA GPU", "Multithreading"],
-    data: ["Pandas", "NumPy", "Matplotlib", "Seaborn"],
-    language: ["NLP", "Contrastive Learning", "BERT", "GPT"],
-    misc: ["Grad-CAM", "SMOTE", "FP16 Optimization"]
-  },
-  currentFocus: "AI-powered visual inspection at photonic scale",
-  funFact: "I can debug CUDA faster after 2 cups of filter coffee ☕",
-};
-```
+- **Languages:** Python, C++, CUDA C
+- **Frameworks:** PyTorch, TensorFlow, OpenCV, Scikit-learn
+- **Web Technologies:** React.js, Next.js, FastAPI, Vite, Strapi CMS
+- **Tools & Platforms:** Docker, AWS, GitHub Actions, Kubernetes (basics)
+- **Specializations:** Computer Vision, LLM Fine-Tuning, HPC (High Performance Computing), Model Deployment
 
 ---
 
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akash-kadali&show_icons=true&theme=tokyonight&count_private=true" width="480" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akash-kadali&layout=compact&theme=tokyonight" width="350" />
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=akash-kadali&theme=tokyonight" width="480" />
-</p>
+## 💼 Professional Experience
+
+### 🔹 Incoming Machine Learning Intern — **Ayar Labs** (Summer 2025)
+- Building an AI-powered image analysis system for semiconductor chip inspection.
+
+### 🔹 Research Intern — **IIT Indore**, **NIT Jaipur**
+- Worked on **Implicit Hate Speech Detection**.
+- Improved model accuracy from 87% ➔ 97% by introducing **GraphSAGE** and **user-level feature engineering**.
 
 ---
 
-### 🕒 Developer Breakdown
+## 📈 GitHub Stats
 
-📅 I'm Most Productive On: **Sundays & Wednesdays**  
-🖥️ Primary Stack: Python • PyTorch • OpenCV • CUDA  
-⚡ Work Hours: Night Owl Mode (10 PM to 4 AM)
+![Sri Akash's GitHub stats](https://github-readme-stats.vercel.app/api?username=SriAkashKadali&show_icons=true&theme=default)
 
 ---
 
-### 🌐 Connect With Me
+## 🌟 Let's Connect
 
-<p align="center">
-  <a href="https://linkedin.com/in/sri-akash-kadali">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:srikadaliakash@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://srikadali.com">
-    <img src="https://img.shields.io/badge/Portfolio-Website-green?style=for-the-badge&logo=vercel" />
-  </a>
-</p>
+I'm actively seeking **full-time opportunities** in **Machine Learning Engineering**, **Applied AI**, and **Computer Vision** domains.
+
+📬 Reach out:  
+- **Email:** srikadalakash@gmail.com  
+- **LinkedIn:** [linkedin.com/in/sri-akash-kadali](https://www.linkedin.com/in/sri-akash-kadali/)  
+- **Portfolio:** [srikadali.com](https://www.srikadali.com/)
 
 ---
 
-> I love connecting with passionate minds. Whether you're building, learning, or just curious — I'm all ears! 😊
+> "Stay Hungry. Stay Foolish. Keep Building."
