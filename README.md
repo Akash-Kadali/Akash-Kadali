@@ -82,6 +82,11 @@
 
 ---
 
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/srikadali?theme=dark&ext=heatmap" />
+</p>
+
+
 ## 🤝 Let’s Connect!
 
 I’m currently **open to full-time roles** in:  
