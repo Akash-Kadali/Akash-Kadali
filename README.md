@@ -31,9 +31,6 @@
     <td align="center" width="130">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="60" /><br/>C++
     </td>
-    <td align="center" width="130">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cuda/cuda-original.svg" width="60" /><br/>CUDA
-    </td>
   </tr>
 </table>
 
