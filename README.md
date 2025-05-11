@@ -19,140 +19,131 @@
 
 ---
 
+<!-- Skills section (all corrected logos) -->
 ### 🧠 Machine Learning Skills
 
-<!-- Programming Languages -->
 ### 🖥️ Programming Languages
 <table>
   <tr>
     <td align="center" width="130">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" /><br/>Python
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="60" /><br/>Python
     </td>
     <td align="center" width="130">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="60" /><br/>C++
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="60" /><br/>C++
     </td>
     <td align="center" width="130">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/CUDA_logo.svg/512px-CUDA_logo.svg.png" width="60" /><br/>CUDA
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cuda/cuda-original.svg" width="60" /><br/>CUDA
     </td>
   </tr>
 </table>
 
-<!-- ML/DL Frameworks -->
 ### 🧠 ML & Deep Learning Frameworks
 <table>
   <tr>
     <td align="center" width="130">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="60" /><br/>TensorFlow
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" width="60" /><br/>TensorFlow
     </td>
     <td align="center" width="130">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="60" /><br/>PyTorch
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" width="60" /><br/>PyTorch
     </td>
     <td align="center" width="130">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" width="60" /><br/>Keras
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/keras/keras-original.svg" width="60" /><br/>Keras
     </td>
     <td align="center" width="130">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="60" /><br/>Scikit-learn
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="60" /><br/>Scikit-learn
     </td>
   </tr>
 </table>
 
-<!-- Data Analysis & Visualization -->
 ### 📊 Data Analysis & Visualization
 <table>
   <tr>
     <td align="center" width="130">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="60" /><br/>NumPy
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="60" /><br/>NumPy
     </td>
     <td align="center" width="130">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="60" /><br/>Pandas
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="60" /><br/>Pandas
     </td>
     <td align="center" width="130">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="60" /><br/>Jupyter
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" width="60" /><br/>Jupyter
     </td>
   </tr>
 </table>
 
-<!-- Computer Vision -->
 ### 👁️ Computer Vision
 <table>
   <tr>
     <td align="center" width="130">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="60" /><br/>OpenCV
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original.svg" width="60" /><br/>OpenCV
     </td>
   </tr>
 </table>
 
-<!-- DevOps & MLOps -->
 ### ⚙️ DevOps & MLOps
 <table>
   <tr>
     <td align="center" width="130">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="60" /><br/>Docker
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="60" /><br/>Docker
     </td>
     <td align="center" width="130">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="60" /><br/>Kubernetes
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-plain.svg" width="60" /><br/>Kubernetes
     </td>
     <td align="center" width="130">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" /><br/>Git
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="60" /><br/>Git
     </td>
     <td align="center" width="130">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" width="60" /><br/>GitHub
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="60" /><br/>GitHub
     </td>
   </tr>
 </table>
 
-<!-- Backend & API -->
 ### 🌐 APIs & Backend
 <table>
   <tr>
     <td align="center" width="130">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="60" /><br/>FastAPI
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="60" /><br/>FastAPI
     </td>
     <td align="center" width="130">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="60" /><br/>Flask
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" width="60" /><br/>Flask
     </td>
   </tr>
 </table>
 
-<!-- Cloud Platforms -->
 ### ☁️ Cloud & Infra
 <table>
   <tr>
     <td align="center" width="130">
-      <img src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png" width="60" /><br/>AWS
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="60" /><br/>AWS
     </td>
     <td align="center" width="130">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="60" /><br/>Google Cloud
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" width="60" /><br/>Google Cloud
     </td>
   </tr>
 </table>
 
-<!-- Frontend -->
 ### 💻 Frontend (for ML UI/Demos)
 <table>
   <tr>
     <td align="center" width="130">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60" /><br/>React
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="60" /><br/>React
     </td>
     <td align="center" width="130">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="60" /><br/>Next.js
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="60" /><br/>Next.js
     </td>
   </tr>
 </table>
 
-<!-- NLP Libraries -->
 ### 🗣️ NLP Libraries
 <table>
   <tr>
     <td align="center" width="130">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/NLTK_logo.svg/1200px-NLTK_logo.svg.png" width="60" /><br/>NLTK
+      <img src="https://raw.githubusercontent.com/nltk/nltk.github.com/master/images/nltk-logo.png" width="60" /><br/>NLTK
     </td>
     <td align="center" width="130">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Spacy_logo.svg/2560px-Spacy_logo.svg.png" width="60" /><br/>spaCy
+      <img src="https://raw.githubusercontent.com/explosion/spaCy/master/docs/images/logo.svg" width="60" /><br/>spaCy
     </td>
   </tr>
 </table>
-
 
 ## 💼 Experience
 
@@ -202,7 +193,6 @@
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/srikadali?theme=dark&ext=heatmap" />
 </p>
-
 
 ## 🤝 Let’s Connect!
 
