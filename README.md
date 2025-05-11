@@ -77,7 +77,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SriAkashKadali&show_icons=true&theme=default" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=SriAkashKadali&theme=default" />
 </p>
 
 ---
@@ -95,7 +94,7 @@ I’m currently **open to full-time roles** in:
 - Computer Vision Systems
 
 📬 Reach me at:  
-- ✉️ Email: srikadali18@gmail.com  
+- ✉️ Email: srikadaliakash@gmail.com  
 - 🌐 Website: [srikadali.com](https://www.srikadali.com)  
 - 🔗 LinkedIn: [linkedin.com/in/sri-akash-kadali](https://www.linkedin.com/in/sri-akash-kadali)
 
