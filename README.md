@@ -169,9 +169,8 @@
 ---
 
 ## 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SriAkashKadali&show_icons=true&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Akash-Kadali&show_icons=true&theme=default" />
 </p>
 
 ---
