@@ -212,7 +212,9 @@ I’m currently **open to full-time roles** in:
 - ✉️ Email: srikadaliakash@gmail.com  
 - 🌐 Website: [srikadali.com](https://www.srikadali.com)  
 - 🔗 LinkedIn: [linkedin.com/in/sri-akash-kadali](https://www.linkedin.com/in/sri-akash-kadali)
-
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/srikadali?theme=dark&ext=heatmap" />
+</p>
 ---
 
 <p align="center"><i>"Stay Hungry. Stay Foolish. Keep Building."</i></p>
