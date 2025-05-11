@@ -38,16 +38,6 @@
 
 ## 💼 Experience
 
-### 🔹 **Machine Learning Intern @ Ayar Labs**  
-📍 *San Jose, CA* | **May 2025 – Aug 2025 (Incoming)**  
-- Building an **AI-powered visual inspection system** for optical chip defect analysis.  
-- Architecting a deep learning pipeline using **CNNs, Grad-CAM**, and **Vision Transformers**.  
-- Planning scalable deployment using **Docker**, **FastAPI**, and **AWS cloud services**.  
-- Implementing **SMOTE for class imbalance**, with emphasis on real-time performance.  
-- Targeting chip yield improvements and faster failure diagnostics using AI.
-
----
-
 ### 🔹 **Research Intern @ IIT Indore**  
 📍 *Remote – USA* | **Jul 2024 – Dec 2024**  
 - Designed an automated model for **real-time defect detection** in laser-engineered photonic chips.  
