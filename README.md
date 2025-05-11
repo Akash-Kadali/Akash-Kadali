@@ -49,11 +49,11 @@
 ---
 
 ### 🔹 **Research Intern @ IIT Indore**  
-📍 *Indore, India* | **May 2023 – Dec 2023**  
-- Developed an **AI-based inspection system** for photonic chip defects using **TensorFlow** and **OpenCV**.  
-- Used **transfer learning** to boost image classification accuracy on optical components.  
-- Applied **statistical modeling** to improve defect detection reliability in silicon photonics.  
-- Built end-to-end pipelines for **optical I/O analysis**, optimizing defect classification speed and accuracy.
+📍 *Remote – USA* | **Jul 2024 – Dec 2024**  
+- Designed an automated model for **real-time defect detection** in laser-engineered photonic chips.  
+- Developed **AI-driven optical I/O pipelines** integrated with silicon photonics systems.  
+- Collaborated on **industry-funded projects** applying AI for next-gen chip inspection and defect prediction.  
+- Enhanced pipeline accuracy using **probability theory and statistical learning**.
 
 ---
 
@@ -67,11 +67,11 @@
 ---
 
 ### 🔹 **Research Intern @ IIT Indore**  
-📍 *Remote – USA* | **Jul 2024 – Dec 2024**  
-- Designed an automated model for **real-time defect detection** in laser-engineered photonic chips.  
-- Developed **AI-driven optical I/O pipelines** integrated with silicon photonics systems.  
-- Collaborated on **industry-funded projects** applying AI for next-gen chip inspection and defect prediction.  
-- Enhanced pipeline accuracy using **probability theory and statistical learning**.
+📍 *Indore, India* | **May 2023 – Dec 2023**  
+- Developed an **AI-based inspection system** for photonic chip defects using **TensorFlow** and **OpenCV**.  
+- Used **transfer learning** to boost image classification accuracy on optical components.  
+- Applied **statistical modeling** to improve defect detection reliability in silicon photonics.  
+- Built end-to-end pipelines for **optical I/O analysis**, optimizing defect classification speed and accuracy.
 
 ---
 
