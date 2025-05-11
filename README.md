@@ -133,18 +133,6 @@
   </tr>
 </table>
 
-### 🗣️ NLP Libraries
-<table>
-  <tr>
-    <td align="center" width="130">
-      <img src="https://raw.githubusercontent.com/nltk/nltk.github.com/master/images/nltk-logo.png" width="60" /><br/>NLTK
-    </td>
-    <td align="center" width="130">
-      <img src="https://raw.githubusercontent.com/explosion/spaCy/master/docs/images/logo.svg" width="60" /><br/>spaCy
-    </td>
-  </tr>
-</table>
-
 
 ## 💼 Experience
 
