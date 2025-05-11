@@ -8,7 +8,7 @@
 ---
 
 ## 🎓 Education
-- **Master of Engineering in Applied Machine Learning**  
+- **Master of Science in Applied Machine Learning**  
   *University of Maryland, College Park*  
   *Expected Graduation: May 2026*
 
