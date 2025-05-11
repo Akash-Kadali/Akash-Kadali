@@ -3,7 +3,7 @@
 
 <h3 align="center">🌐 Connect With Me</h3>
 
-<p align="center">
+<div align="center">
   <table>
     <tr>
       <td align="center" width="130">
@@ -26,7 +26,8 @@
       </td>
     </tr>
   </table>
-</p>
+</div>
+
 
 ---
 
