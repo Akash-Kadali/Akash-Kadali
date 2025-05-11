@@ -32,7 +32,7 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="60" /><br/>C++
     </td>
     <td align="center" width="130">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/1/16/CUDA_logo.svg" width="60" /><br/>CUDA
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/CUDA_logo.svg/512px-CUDA_logo.svg.png" width="60" /><br/>CUDA
     </td>
   </tr>
 </table>
@@ -48,7 +48,7 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="60" /><br/>PyTorch
     </td>
     <td align="center" width="130">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-plain.svg" width="60" /><br/>Keras
+      <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" width="60" /><br/>Keras
     </td>
     <td align="center" width="130">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="60" /><br/>Scikit-learn
@@ -96,7 +96,7 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" /><br/>Git
     </td>
     <td align="center" width="130">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="60" /><br/>GitHub
+      <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" width="60" /><br/>GitHub
     </td>
   </tr>
 </table>
@@ -119,7 +119,7 @@
 <table>
   <tr>
     <td align="center" width="130">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="60" /><br/>AWS
+      <img src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png" width="60" /><br/>AWS
     </td>
     <td align="center" width="130">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="60" /><br/>Google Cloud
@@ -145,13 +145,14 @@
 <table>
   <tr>
     <td align="center" width="130">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nltk/nltk-original.svg" width="60" /><br/>NLTK
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/NLTK_logo.svg/1200px-NLTK_logo.svg.png" width="60" /><br/>NLTK
     </td>
     <td align="center" width="130">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spacy/spacy-original.svg" width="60" /><br/>spaCy
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Spacy_logo.svg/2560px-Spacy_logo.svg.png" width="60" /><br/>spaCy
     </td>
   </tr>
 </table>
+
 
 ## 💼 Experience
 
