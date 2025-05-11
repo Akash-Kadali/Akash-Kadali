@@ -1,59 +1,109 @@
-# 👋 Hi there, I'm Sri Akash Kadali
+<h1 align="center">Hi 👋, I'm Sri Akash Kadali</h1>
+<h3 align="center">🚀 ML Engineer | Computer Vision | LLM Optimization | CUDA Enthusiast</h3>
 
-**Aspiring Machine Learning Engineer | Computer Vision | LLM Optimization | CUDA Enthusiast**
-
-🔗 **Portfolio:** [srikadali.com](https://www.srikadali.com/)  
-📧 **Email:** srikadali18@gmail.com
+<p align="center">
+  <a href="https://www.linkedin.com/in/sri-akash-kadali" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="mailto:srikadali18@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"></a>
+  <a href="https://www.srikadali.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"></a>
+</p>
 
 ---
 
 ## 🎓 Education
-- **Master of Science in Applied Machine Learning**  
-  *University of Maryland, College Park*  
-  *Expected Graduation: May 2026*
 
-- **Bachelor of Technology in Computer Science and Engineering**  
-  *Indian Institute of Information Technology, Vadodara*  
+- 🧠 **MS in Applied Machine Learning**, University of Maryland, College Park  
+  *Expected: May 2026*
+
+- 🧑‍💻 **B.Tech in CSE**, IIIT Vadodara  
   *Graduated: 2024*
 
 ---
 
-## 🛠️ Skills
+## 🧠 Skills
 
-- **Languages:** Python, C++, CUDA C
-- **Frameworks:** PyTorch, TensorFlow, OpenCV, Scikit-learn
-- **Web Technologies:** React.js, Next.js, FastAPI, Vite, Strapi CMS
-- **Tools & Platforms:** Docker, AWS, GitHub Actions, Kubernetes (basics)
-- **Specializations:** Computer Vision, LLM Fine-Tuning, HPC (High Performance Computing), Model Deployment
-
----
-
-## 💼 Professional Experience
-
-### 🔹 Incoming Machine Learning Intern — **Ayar Labs** (Summer 2025)
-- Building an AI-powered image analysis system for semiconductor chip inspection.
-
-### 🔹 Research Intern — **IIT Indore**, **NIT Jaipur**
-- Worked on **Implicit Hate Speech Detection**.
-- Improved model accuracy from 87% ➔ 97% by introducing **GraphSAGE** and **user-level feature engineering**.
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+</p>
 
 ---
 
-## 📈 GitHub Stats
+## 💼 Experience
 
-![Sri Akash's GitHub stats](https://github-readme-stats.vercel.app/api?username=SriAkashKadali&show_icons=true&theme=default)
-
----
-
-## 🌟 Let's Connect
-
-I'm actively seeking **full-time opportunities** in **Machine Learning Engineering**, **Applied AI**, and **Computer Vision** domains.
-
-📬 Reach out:  
-- **Email:** srikadalakash@gmail.com  
-- **LinkedIn:** [linkedin.com/in/sri-akash-kadali](https://www.linkedin.com/in/sri-akash-kadali/)  
-- **Portfolio:** [srikadali.com](https://www.srikadali.com/)
+### 🔹 **Machine Learning Intern @ Ayar Labs**  
+📍 *San Jose, CA* | **May 2025 – Aug 2025 (Incoming)**  
+- Building an **AI-powered visual inspection system** for optical chip defect analysis.  
+- Architecting a deep learning pipeline using **CNNs, Grad-CAM**, and **Vision Transformers**.  
+- Planning scalable deployment using **Docker**, **FastAPI**, and **AWS cloud services**.  
+- Implementing **SMOTE for class imbalance**, with emphasis on real-time performance.  
+- Targeting chip yield improvements and faster failure diagnostics using AI.
 
 ---
 
-> "Stay Hungry. Stay Foolish. Keep Building."
+### 🔹 **Research Intern @ IIT Indore**  
+📍 *Indore, India* | **May 2023 – Dec 2023**  
+- Developed an **AI-based inspection system** for photonic chip defects using **TensorFlow** and **OpenCV**.  
+- Used **transfer learning** to boost image classification accuracy on optical components.  
+- Applied **statistical modeling** to improve defect detection reliability in silicon photonics.  
+- Built end-to-end pipelines for **optical I/O analysis**, optimizing defect classification speed and accuracy.
+
+---
+
+### 🔹 **Research Intern @ NIT Jaipur**  
+📍 *Jaipur, India* | **Jan 2024 – Jun 2024**  
+- Built a deep-learning-based **visual inspection system** for photonics hardware.  
+- Applied **image segmentation** techniques to automate quality assessment.  
+- Created a lightweight inference pipeline optimized for **real-time deployment** in semiconductor labs.  
+- Achieved measurable reductions in manual inspection efforts and costs.
+
+---
+
+### 🔹 **Research Intern @ IIT Indore**  
+📍 *Remote – USA* | **Jul 2024 – Dec 2024**  
+- Designed an automated model for **real-time defect detection** in laser-engineered photonic chips.  
+- Developed **AI-driven optical I/O pipelines** integrated with silicon photonics systems.  
+- Collaborated on **industry-funded projects** applying AI for next-gen chip inspection and defect prediction.  
+- Enhanced pipeline accuracy using **probability theory and statistical learning**.
+
+---
+
+## 🚀 What I'm Working On
+
+- 🧪 **LLM Optimization:** Tuning T5 summarization models with **LoRA + Optuna** using **Katib & Kubeflow**  
+- 🧠 **Visual AI System:** Deploying CNN + GradCAM pipeline for chip inspection using Docker + FastAPI  
+- 📄 **Cloud Summarizer:** BART-based summarizer with full-stack deployment and PDF input handling
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SriAkashKadali&show_icons=true&theme=default" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=SriAkashKadali&theme=default" />
+</p>
+
+---
+
+## 🤝 Let’s Connect!
+
+I’m currently **open to full-time roles** in:  
+- Machine Learning Engineering  
+- Applied AI & LLMs  
+- Computer Vision Systems
+
+📬 Reach me at:  
+- ✉️ Email: srikadali18@gmail.com  
+- 🌐 Website: [srikadali.com](https://www.srikadali.com)  
+- 🔗 LinkedIn: [linkedin.com/in/sri-akash-kadali](https://www.linkedin.com/in/sri-akash-kadali)
+
+---
+
+<p align="center"><i>"Stay Hungry. Stay Foolish. Keep Building."</i></p>
