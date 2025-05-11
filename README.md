@@ -1,10 +1,31 @@
 <h1 align="center">Hi 👋, I'm Sri Akash Kadali</h1>
 <h3 align="center">🚀 ML Engineer | Computer Vision | LLM Optimization | CUDA Enthusiast</h3>
 
+<h3 align="center">🌐 Connect With Me</h3>
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/sri-akash-kadali" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="mailto:srikadaliakash@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"></a>
-  <a href="https://www.srikadali.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"></a>
+  <table>
+    <tr>
+      <td align="center" width="130">
+        <a href="https://www.linkedin.com/in/sri-akash-kadali" target="_blank">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50" />
+          <br/>LinkedIn
+        </a>
+      </td>
+      <td align="center" width="130">
+        <a href="mailto:srikadaliakash@gmail.com" target="_blank">
+          <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="50" />
+          <br/>Gmail
+        </a>
+      </td>
+      <td align="center" width="130">
+        <a href="https://www.srikadali.com" target="_blank">
+          <img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" width="50" />
+          <br/>Portfolio
+        </a>
+      </td>
+    </tr>
+  </table>
 </p>
 
 ---
