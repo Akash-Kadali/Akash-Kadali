@@ -128,7 +128,16 @@ A full-stack AI platform that reads job descriptions, understands skill alignmen
 
 ---
 
-Would you like me to make a **GitHub profile bio (top tagline)** that pairs with this README — something short like
+## 📊 GitHub & LeetCode Stats
 
-> “Building intelligent systems that understand people and data.”
-> I can give you 3 options tuned for different recruiter impressions (AI engineer, applied ML, or research focus). Want that?
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Akash-Kadali&show_icons=true&rank_icon=github&include_all_commits=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akash-Kadali&layout=compact&langs_count=10&card_width=420" />
+</p>
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/srikadali?theme=dark&ext=heatmap" />
+</p>
