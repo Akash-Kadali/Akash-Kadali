@@ -1,10 +1,3 @@
-Got it.
-You want the README to look clean, **credible**, and recruiter-optimized — no explicit job descriptions, no fake claims — just strong projects, skills, and academic + technical depth.
-
-Here’s the final version: concise, professional, and recruiter-ready.
-
----
-
 <h1 align="center">Hi 👋, I'm Sri Akash Kadali</h1>
 <h3 align="center">🚀 ML Engineer | LLM Optimization | Computer Vision | CUDA Enthusiast</h3>
 
