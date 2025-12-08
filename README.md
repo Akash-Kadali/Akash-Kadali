@@ -1,134 +1,99 @@
-<h1 align="center">Hi 👋, I'm Sri Akash Kadali</h1>
-<h3 align="center">🚀 ML Engineer | LLM Optimization | Computer Vision | CUDA Enthusiast</h3>
+<h1 align="center">Hi 👋 I'm Sri Akash Kadali</h1>
+<h3 align="center">ML Engineer | LLM Optimization | Computer Vision | CUDA</h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/sri-akash-kadali">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:srikadaliakash@gmail.com">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.srikadali.com">
+    <img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" width="40"/>
+  </a>
+</p>
 
 ---
 
-<h3 align="center">🌐 Connect With Me</h3>
+## 🚀 About Me
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="130">
-        <a href="https://www.linkedin.com/in/sri-akash-kadali" target="_blank">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50" />
-          <br/>LinkedIn
-        </a>
-      </td>
-      <td align="center" width="130">
-        <a href="mailto:srikadaliakash@gmail.com" target="_blank">
-          <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="50" />
-          <br/>Gmail
-        </a>
-      </td>
-      <td align="center" width="130">
-        <a href="https://www.srikadali.com" target="_blank">
-          <img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" width="50" />
-          <br/>Portfolio
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
+I work on applied machine learning, LLM optimization, and high-performance pipelines.  
+My focus is building systems that run reliably at scale, not one-off demos.  
+Most of my recent work involves LLM reasoning, inference optimization, MLOps, and CV models.
 
 ---
 
 ## 🎓 Education
 
-* 🧠 **MS in Applied Machine Learning**, University of Maryland, College Park
+- **MS in Applied Machine Learning**, University of Maryland, College Park  
   *Expected: May 2026*
 
-* 💻 **B.Tech in Computer Science and Engineering**, IIIT Vadodara
-  *Graduated: 2024*
+- **B.Tech in Computer Science**, IIIT Vadodara  
+  *2024*
 
 ---
 
 ## 💼 Experience
 
-### 🔹 **Ayar Labs — Machine Learning Intern**
+### **Ayar Labs — Machine Learning Intern**
+Santa Clara, CA • Summer 2024  
+Worked on calibration pipelines, signal modeling, and ML-assisted photonic tuning workflows.
 
-📍 *Santa Clara, CA* | **Summer 2024**
+### **IIT Indore — Research Intern**
+2022–2024  
+LLM and CV research across implicit hate speech, RAG systems, and transformer models.
 
-### 🔹 **IIT Indore — Research Intern**
-
-📍 *Remote / Indore, India* | **2022 – 2024**
-
-### 🔹 **NIT Jaipur — Research Intern**
-
-📍 *Jaipur, India* | **2023**
-
-*(Focused on AI, Computer Vision, and Photonics-based Deep Learning Research)*
+### **NIT Jaipur — Research Intern**
+2023  
+Computer vision and deformable transformer models for medical imaging.
 
 ---
 
-## 🚀 Projects
+## 🔭 Featured Project
 
-### 🌌 [**ASTRA**](https://github.com/Akash-Kadali/ASTRA)
+### 🌌 **[ASTRA](https://github.com/Akash-Kadali/ASTRA)**  
+**AI-powered resume automation system**
 
-**Autonomous System for Tailored Resume Applications**
+A local, privacy-first platform that reads job descriptions, aligns skill gaps, and rewrites LaTeX resumes and cover letters with LLM reasoning.
 
-A full-stack AI platform that reads job descriptions, understands skill alignment, and rewrites LaTeX resumes automatically with human-like tone and ATS optimization.
-
-* Built on **FastAPI**, **PyWebView**, and **OpenAI APIs**.
-* Integrates **context-aware LLM reasoning**, resume parsing, and cover-letter generation.
-* Features analytics dashboard, local data privacy, and multi-profile optimization.
-* Designed UI and UX in a minimal, futuristic theme.
+**Highlights**
+- FastAPI backend + PyWebView desktop shell  
+- LLM-based bullet rewriting, JD alignment, and scoring  
+- ATS-aware formatting  
+- Multi-profile support and analytics  
+- Modular UI with a clean, minimal theme  
 
 ---
 
 ## 🧠 Technical Stack
 
-| Domain                  | Tools                                 |
-| ----------------------- | ------------------------------------- |
-| **Languages**           | Python, C++, CUDA                     |
-| **ML/DL**               | PyTorch, TensorFlow, Scikit-Learn     |
-| **MLOps / Infra**       | Docker, Kubernetes, FastAPI, AWS, GCP |
-| **Data & Optimization** | NumPy, Pandas, Optuna, MLflow         |
-| **LLMs**                | Hugging Face, LoRA, PEFT, LangChain   |
-| **Vision**              | OpenCV, TensorRT, GradCAM             |
-| **Frontend/UI**         | React, Next.js                        |
-| **Version Control**     | Git, GitHub Actions                   |
+| Area | Tools |
+|------|-------|
+| **Languages** | Python, C++, CUDA |
+| **ML / DL** | PyTorch, TensorFlow, Scikit-learn |
+| **LLMs** | Hugging Face, LoRA, PEFT, OpenAI, LangChain |
+| **Model Optimization** | TensorRT, TorchScript, ONNX, quantization |
+| **MLOps / Infra** | Docker, Kubernetes, FastAPI, MLflow, AWS, GCP |
+| **CV** | OpenCV, GradCAM, Albumentations |
+| **Data & Optimization** | NumPy, Pandas, Optuna |
+| **Frontend** | React, Next.js |
+| **Version Control** | Git, GitHub Actions |
 
 ---
 
-## 🏆 Highlights
+## 🏆 What I’m Proud Of
 
-* Built and deployed **ASTRA**, an AI-driven local career-automation system used by peers for resume and cover-letter generation.
-* Contributed to applied ML research in **Computer Vision and Photonics AI** across IITs and industry projects.
-* Experienced in **LLM fine-tuning, prompt optimization, and low-latency inference**.
-* Strong focus on **MLOps, deployment, and reproducible experiments**.
-* Hands-on with **CUDA acceleration**, **FastAPI backends**, and **containerized AI systems**.
-
----
-
-## 📊 GitHub & LeetCode Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Akash-Kadali&show_icons=true&theme=default" />
-</p>
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/srikadali?theme=dark&ext=heatmap" />
-</p>
+- Built **ASTRA**, a full-stack AI career automation system used by students and peers.  
+- Experience with **LLM fine-tuning**, **prompt engineering**, and **low-latency inference**.  
+- Research contributions in **vision transformers**, **deformable attention**, and **medical imaging**.  
+- Strong background in **MLOps**, **experiment tracking**, and **repeatable pipelines**.  
+- Comfort with numerical optimization, CUDA kernels, and model performance tuning.
 
 ---
 
-## 🔍 Open To
-
-* **Machine Learning Engineer**
-* **Applied AI / LLM Engineering**
-* **Computer Vision & MLOps Roles**
-
-📬 **[srikadaliakash@gmail.com](mailto:srikadaliakash@gmail.com)**
-🌐 [**srikadali.com**](https://www.srikadali.com)
-🔗 [**linkedin.com/in/sri-akash-kadali**](https://www.linkedin.com/in/sri-akash-kadali)
-
----
-
-<p align="center"><i>"Stay Hungry. Stay Foolish. Keep Building."</i></p>
-
----
-
-## 📊 GitHub & LeetCode Stats
+## 📊 Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Akash-Kadali&show_icons=true&rank_icon=github&include_all_commits=true" />
@@ -141,3 +106,17 @@ A full-stack AI platform that reads job descriptions, understands skill alignmen
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/srikadali?theme=dark&ext=heatmap" />
 </p>
+
+---
+
+## 🔍 Open To
+
+- ML Engineer  
+- Applied AI / LLM Engineer  
+- Computer Vision Engineer  
+- MLOps / Infrastructure ML roles  
+
+📫 **srikadaliakash@gmail.com**  
+🌐 **https://srikadali.com**  
+
+<p align="center"><i>Keep building. Keep shipping.</i></p>
