@@ -101,64 +101,107 @@ A **full-stack AI system** that automates resume optimization, job alignment, an
 
 ### 💻 Languages
 
-Python • C++ • CUDA • SQL • TypeScript • JavaScript
+Python • C++ • CUDA • SQL
+TypeScript • JavaScript • Bash
+
+✔ Strong in **performance-critical Python & C++ systems**
+✔ Experience writing **GPU kernels (CUDA) & low-level optimizations**
 
 ---
 
 ### ⚙️ Backend & Systems Engineering
 
-FastAPI • Node.js • REST • gRPC
-Microservices • Distributed Systems
-Async Programming • System Design
+**Core Stack:**
+FastAPI • Node.js • Express • REST • gRPC • WebSockets
 
-✔ Built scalable APIs handling **concurrent workloads**
-✔ Experience with **low-latency system design**
+**Architecture & Systems:**
+Microservices • Distributed Systems • Event-Driven Architecture
+Async Programming • Concurrency • Multithreading • Multiprocessing
+
+**Infrastructure Patterns:**
+API Gateway • Service Discovery • Load Balancing
+Caching (Redis) • Message Queues (Kafka / RabbitMQ)
+
+**Databases:**
+PostgreSQL • MySQL • MongoDB • Redis
+
+✔ Designed **scalable backend systems handling high concurrency**
+✔ Built **low-latency APIs with async I/O and optimized DB access**
+✔ Experience with **system design: fault tolerance, retries, rate limiting**
 
 ---
 
 ### 🤖 AI / ML / LLM Systems
 
-PyTorch • TensorFlow • Transformers
-Hugging Face • LangChain • OpenAI APIs
+**Frameworks:**
+PyTorch • TensorFlow • Scikit-learn • XGBoost
 
-LLM Engineering:
+**LLM & GenAI Stack:**
+Transformers • Hugging Face • OpenAI APIs • LangChain • LlamaIndex
 
-* Prompt Engineering
-* Retrieval-Augmented Generation (RAG)
-* LoRA / PEFT fine-tuning
+**LLM Engineering:**
+Prompt Engineering • RAG • Agents • Tool Calling
+LoRA / PEFT Fine-Tuning • Instruction Tuning
 
-✔ Built **production LLM pipelines**, not just notebooks
+**Advanced Workflows:**
+Embedding Pipelines • Vector Search (FAISS / Pinecone)
+Semantic Search • Document Processing Pipelines
+
+✔ Built **end-to-end LLM systems (retrieval → reasoning → generation)**
+✔ Experience with **production-grade AI pipelines, not just experimentation**
 
 ---
 
 ### ⚡ Systems ML & Optimization
 
-CUDA • TensorRT • ONNX • TorchScript
+CUDA • TensorRT • ONNX • TorchScript • Triton (Inference Server)
 
-* Model Quantization
-* Latency optimization
-* GPU profiling
+**Optimization Techniques:**
+Quantization (INT8 / FP16) • Pruning • Kernel Optimization
+Batching • Parallel Inference • Memory Optimization
 
-✔ Focus on **real-world performance, not just accuracy**
+**Performance Engineering:**
+GPU Profiling (Nsight) • Throughput vs Latency tradeoffs
+Model compilation & graph optimization
 
----
-
-### 📊 Data Engineering
-
-Pandas • NumPy • ETL Pipelines
-Feature Engineering • Experimentation (Optuna)
-
-✔ Designed **data pipelines feeding ML systems**
+✔ Reduced inference latency via **hardware-aware optimizations**
+✔ Strong focus on **serving efficiency at scale**
 
 ---
 
-### ☁️ Cloud & MLOps
+### 📊 Data Engineering & Pipelines
 
-AWS • GCP
+Pandas • NumPy • PySpark (basic)
+
+**Pipelines & Processing:**
+ETL / ELT Pipelines • Data Validation • Data Versioning
+Feature Engineering • Data Cleaning at scale
+
+**Experimentation:**
+Optuna • Hyperparameter Tuning • A/B Testing
+
+✔ Built **data pipelines powering ML systems in production**
+✔ Experience handling **large-scale structured + unstructured data**
+
+---
+
+### ☁️ Cloud, DevOps & MLOps
+
+**Cloud:**
+AWS (EC2, S3, Lambda, RDS) • GCP
+
+**Containerization & Orchestration:**
 Docker • Kubernetes
-CI/CD • GitHub Actions • MLflow
 
-✔ Experience deploying **scalable ML systems in production**
+**MLOps & Deployment:**
+MLflow • Model Versioning • Model Monitoring
+CI/CD • GitHub Actions
+
+**Serving & Infra:**
+Model Serving APIs • Autoscaling • Logging & Monitoring
+
+✔ Deployed **scalable ML services with CI/CD pipelines**
+✔ Experience with **production infra & model lifecycle management**
 
 ---
 
@@ -166,9 +209,23 @@ CI/CD • GitHub Actions • MLflow
 
 React • Next.js • Tailwind CSS
 
-✔ Built **clean, usable interfaces for complex systems**
+**Concepts:**
+Component Architecture • State Management • API Integration
+Responsive Design • UI/UX fundamentals
+
+✔ Built **full-stack applications with clean user experience**
 
 ---
+
+### 🧩 Additional Engineering Strengths
+
+* Strong foundation in **Data Structures & Algorithms**
+* Solid understanding of **Operating Systems & Networking**
+* Experience with **system design interviews & large-scale architecture**
+* Ability to **own systems end-to-end (design → build → deploy → optimize)**
+
+---
+
 
 ## 🏆 Highlights
 
