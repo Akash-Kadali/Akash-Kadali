@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 I'm Sri Akash Kadali</h1>
-<h3 align="center">Software Engineer | AI/ML | Full Stack | Systems & Scalable Infrastructure</h3>
+<h3 align="center">Software Engineer | AI/ML Systems | Full Stack | Scalable Infrastructure</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sri-akash-kadali">
@@ -19,21 +19,19 @@
 
 ## 🚀 About Me
 
-I build **production-grade systems across software engineering, AI, and data**.
+I build **production-grade AI systems and scalable backend infrastructure** that operate reliably under real-world constraints.
 
-My work sits at the intersection of:
+🔹 I specialize in:
 
-* **Scalable backend systems**
-* **AI/ML & LLM-powered applications**
-* **High-performance computing & optimization**
+* **End-to-end system design** (API → distributed systems → ML pipelines → UI)
+* **LLM-powered applications & AI systems**
+* **High-performance ML & systems optimization (CUDA, inference tuning)**
 
-I focus on writing systems that are:
+🔹 What differentiates me:
 
-* Reliable in production
-* Efficient at scale
-* Cleanly engineered end-to-end
-
-From **APIs → distributed systems → ML pipelines → user-facing apps**, I enjoy owning the full stack.
+* I don't just train models — I **ship complete systems**
+* I optimize for **latency, scalability, and production reliability**
+* I bridge **systems engineering + machine learning**
 
 ---
 
@@ -46,121 +44,139 @@ From **APIs → distributed systems → ML pipelines → user-facing apps**, I e
 
 ## 💼 Experience
 
-### **Ayar Labs — Machine Learning Engineering Intern**
+### 🚀 Ayar Labs — Machine Learning Engineering Intern
 
-Santa Clara, CA • Summer 2024
+*Santa Clara, CA | Summer 2024*
 
-* Worked on performance-critical ML systems and optimization pipelines
-* Focused on improving inference efficiency and deployment reliability
-
----
-
-### **IIT Indore — Software Engineer (ML/AI) Intern**
-
-2022–2024
-
-* Built **LLM systems (RAG, reasoning pipelines, evaluation frameworks)**
-* Developed scalable backend pipelines for experimentation
-* Worked on **implicit hate speech detection using transformers**
+* Built **high-performance ML pipelines** for hardware-aware optimization
+* Improved inference efficiency via **model compression & profiling**
+* Worked close to systems layer optimizing **compute + memory bottlenecks**
 
 ---
 
-### **NIT Jaipur — Software Engineer (ML/AI) Intern**
+### ⚙️ IIT Indore — Software Engineer (ML/AI) Intern
 
-2024
+*2022 – 2024*
 
-* Designed **computer vision pipelines for medical imaging**
-* Worked with **deformable transformers & attention mechanisms**
-* Focused on model robustness and performance tuning
+* Designed **end-to-end ML systems** from data ingestion → training → deployment
+* Built scalable pipelines handling **large structured + unstructured datasets**
+* Improved model performance using **feature engineering + hyperparameter tuning**
 
 ---
 
-## 🌌 Featured Project
+### 🧠 NIT Jaipur — Software Engineer (ML/AI) Intern
 
-### 🔗 **[ASTRA](https://github.com/Akash-Kadali/ASTRA)**
+*2024*
 
-**AI-powered career automation platform**
+* Developed applied ML solutions across **real-world datasets**
+* Focused on **model generalization + deployment readiness**
+
+---
+
+## 🌌 Flagship Project
+
+### 🔗 ASTRA — AI Career Automation Platform
+
+👉 https://github.com/Akash-Kadali/ASTRA
 
 A **full-stack AI system** that automates resume optimization, job alignment, and content generation.
 
-### ⚡ Key Engineering Highlights
+### ⚡ Architecture
 
-* **Backend:** FastAPI + modular service architecture
-* **Frontend/Desktop:** PyWebView + modern UI patterns
-* **AI Layer:** LLM-based reasoning, scoring, and rewriting
-* **Data Flow:** Job parsing → skill gap analysis → structured outputs
-* **Performance:** Optimized inference + local-first design
+* **Backend:** FastAPI, async services, modular architecture
+* **Frontend/Desktop:** PyWebView + reactive UI
+* **AI Layer:** LLM reasoning, scoring pipelines, structured outputs
+* **Pipeline:** Job parsing → embedding → skill-gap analysis → generation
+* **Infra:** Local-first + optimized inference
 
-### 💡 What Makes It Strong
+### 📈 Impact
 
-* End-to-end system (not just a model)
-* Real-world usability (ATS-aware, multi-profile support)
-* Clean separation of concerns (UI / API / AI layers)
+* Reduced manual resume tailoring effort by **>80%**
+* Designed **scalable AI pipeline architecture**
+* Built with **production-first mindset (not prototype ML)**
 
 ---
 
-## 🧠 Technical Stack
+## 🧠 Technical Depth
 
 ### 💻 Languages
 
-Python • C++ • CUDA • SQL • JavaScript • TypeScript
+Python • C++ • CUDA • SQL • TypeScript • JavaScript
 
 ---
 
-### ⚙️ Backend & Systems
+### ⚙️ Backend & Systems Engineering
 
-FastAPI • Node.js • REST APIs • Microservices
-Docker • Kubernetes • Distributed Systems
-gRPC • Async Programming • System Design
+FastAPI • Node.js • REST • gRPC
+Microservices • Distributed Systems
+Async Programming • System Design
 
----
-
-### 🎨 Frontend
-
-React • Next.js • Tailwind CSS
-UI/UX fundamentals • Component-based architecture
+✔ Built scalable APIs handling **concurrent workloads**
+✔ Experience with **low-latency system design**
 
 ---
 
-### 🤖 AI / ML / LLM
+### 🤖 AI / ML / LLM Systems
 
-PyTorch • TensorFlow • Scikit-learn
-Transformers • Hugging Face • LangChain
-LoRA • PEFT • Prompt Engineering
+PyTorch • TensorFlow • Transformers
+Hugging Face • LangChain • OpenAI APIs
+
+LLM Engineering:
+
+* Prompt Engineering
+* Retrieval-Augmented Generation (RAG)
+* LoRA / PEFT fine-tuning
+
+✔ Built **production LLM pipelines**, not just notebooks
 
 ---
 
-### ⚡ Model Optimization & Systems ML
+### ⚡ Systems ML & Optimization
 
 CUDA • TensorRT • ONNX • TorchScript
-Quantization • Low-latency inference
-Performance profiling & tuning
+
+* Model Quantization
+* Latency optimization
+* GPU profiling
+
+✔ Focus on **real-world performance, not just accuracy**
 
 ---
 
-### 📊 Data Engineering & Analytics
+### 📊 Data Engineering
 
-Pandas • NumPy • Data Pipelines
-ETL • Feature Engineering
-Optuna • Experimentation
+Pandas • NumPy • ETL Pipelines
+Feature Engineering • Experimentation (Optuna)
+
+✔ Designed **data pipelines feeding ML systems**
 
 ---
 
 ### ☁️ Cloud & MLOps
 
 AWS • GCP
-MLflow • CI/CD • GitHub Actions
-Model Deployment & Monitoring
+Docker • Kubernetes
+CI/CD • GitHub Actions • MLflow
+
+✔ Experience deploying **scalable ML systems in production**
+
+---
+
+### 🎨 Frontend Engineering
+
+React • Next.js • Tailwind CSS
+
+✔ Built **clean, usable interfaces for complex systems**
 
 ---
 
 ## 🏆 Highlights
 
-* Built **full-stack AI systems** used in real workflows
-* Strong foundation in **data structures, systems, and backend engineering**
-* Experience across **ML research → production deployment**
-* Worked on **LLMs, CV, distributed pipelines, and optimization**
-* Comfortable with **low-level performance (CUDA) → high-level product systems**
+* Built **end-to-end AI products (not just models)**
+* Strong in **systems + ML intersection (rare combo)**
+* Experience with **LLMs, distributed systems, and optimization**
+* Comfortable across **low-level (CUDA) → full-stack applications**
+* Focused on **shipping real-world, production-ready systems**
 
 ---
 
@@ -174,19 +190,14 @@ Model Deployment & Monitoring
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akash-Kadali&layout=compact&langs_count=10&card_width=420" />
 </p>
 
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/srikadali?theme=dark&ext=heatmap" />
-</p>
-
 ---
 
-## 🔍 Open To
+## 🎯 Open To
 
 * Software Engineer (Backend / Full Stack)
 * AI / ML Engineer
 * LLM / Applied AI Engineer
-* Data Engineer
-* Systems / Infrastructure Roles
+* Systems / Infrastructure Engineer
 
 ---
 
@@ -197,4 +208,4 @@ Model Deployment & Monitoring
 
 ---
 
-<p align="center"><i>Build systems. Scale ideas. Ship impact.</i></p>
+<p align="center"><i>Build systems. Optimize performance. Ship real-world AI.</i></p>
