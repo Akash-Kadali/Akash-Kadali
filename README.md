@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 I'm Sri Akash Kadali</h1>
-<h3 align="center">ML Engineer | LLM Optimization | Computer Vision | CUDA</h3>
+<h3 align="center">Software Engineer | AI/ML | Full Stack | Systems & Scalable Infrastructure</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sri-akash-kadali">
@@ -19,81 +19,152 @@
 
 ## 🚀 About Me
 
-I work on applied machine learning, LLM optimization, and high-performance pipelines.  
-My focus is building systems that run reliably at scale, not one-off demos.  
-Most of my recent work involves LLM reasoning, inference optimization, MLOps, and CV models.
+I build **production-grade systems across software engineering, AI, and data**.
+
+My work sits at the intersection of:
+
+* **Scalable backend systems**
+* **AI/ML & LLM-powered applications**
+* **High-performance computing & optimization**
+
+I focus on writing systems that are:
+
+* Reliable in production
+* Efficient at scale
+* Cleanly engineered end-to-end
+
+From **APIs → distributed systems → ML pipelines → user-facing apps**, I enjoy owning the full stack.
 
 ---
 
 ## 🎓 Education
 
-- **MS in Applied Machine Learning**, University of Maryland, College Park  
-  *Expected: May 2026*
-
-- **B.Tech in Computer Science**, IIIT Vadodara  
-  *2024*
+* **MS in Applied Machine Learning**, University of Maryland, College Park *(2026)*
+* **B.Tech in Computer Science**, IIIT Vadodara *(2024)*
 
 ---
 
 ## 💼 Experience
 
-### **Ayar Labs — Machine Learning Intern**
-Santa Clara, CA • Summer 2024  
-Worked on calibration pipelines, signal modeling, and ML-assisted photonic tuning workflows.
+### **Ayar Labs — Machine Learning Engineering Intern**
 
-### **IIT Indore — Research Intern**
-2022–2024  
-LLM and CV research across implicit hate speech, RAG systems, and transformer models.
+Santa Clara, CA • Summer 2024
 
-### **NIT Jaipur — Research Intern**
-2023  
-Computer vision and deformable transformer models for medical imaging.
+* Worked on performance-critical ML systems and optimization pipelines
+* Focused on improving inference efficiency and deployment reliability
 
 ---
 
-## 🔭 Featured Project
+### **IIT Indore — Software Engineer (ML/AI) Intern**
 
-### 🌌 **[ASTRA](https://github.com/Akash-Kadali/ASTRA)**  
-**AI-powered resume automation system**
+2022–2024
 
-A local, privacy-first platform that reads job descriptions, aligns skill gaps, and rewrites LaTeX resumes and cover letters with LLM reasoning.
+* Built **LLM systems (RAG, reasoning pipelines, evaluation frameworks)**
+* Developed scalable backend pipelines for experimentation
+* Worked on **implicit hate speech detection using transformers**
 
-**Highlights**
-- FastAPI backend + PyWebView desktop shell  
-- LLM-based bullet rewriting, JD alignment, and scoring  
-- ATS-aware formatting  
-- Multi-profile support and analytics  
-- Modular UI with a clean, minimal theme  
+---
+
+### **NIT Jaipur — Software Engineer (ML/AI) Intern**
+
+2024
+
+* Designed **computer vision pipelines for medical imaging**
+* Worked with **deformable transformers & attention mechanisms**
+* Focused on model robustness and performance tuning
+
+---
+
+## 🌌 Featured Project
+
+### 🔗 **[ASTRA](https://github.com/Akash-Kadali/ASTRA)**
+
+**AI-powered career automation platform**
+
+A **full-stack AI system** that automates resume optimization, job alignment, and content generation.
+
+### ⚡ Key Engineering Highlights
+
+* **Backend:** FastAPI + modular service architecture
+* **Frontend/Desktop:** PyWebView + modern UI patterns
+* **AI Layer:** LLM-based reasoning, scoring, and rewriting
+* **Data Flow:** Job parsing → skill gap analysis → structured outputs
+* **Performance:** Optimized inference + local-first design
+
+### 💡 What Makes It Strong
+
+* End-to-end system (not just a model)
+* Real-world usability (ATS-aware, multi-profile support)
+* Clean separation of concerns (UI / API / AI layers)
 
 ---
 
 ## 🧠 Technical Stack
 
-| Area | Tools |
-|------|-------|
-| **Languages** | Python, C++, CUDA |
-| **ML / DL** | PyTorch, TensorFlow, Scikit-learn |
-| **LLMs** | Hugging Face, LoRA, PEFT, OpenAI, LangChain |
-| **Model Optimization** | TensorRT, TorchScript, ONNX, quantization |
-| **MLOps / Infra** | Docker, Kubernetes, FastAPI, MLflow, AWS, GCP |
-| **CV** | OpenCV, GradCAM, Albumentations |
-| **Data & Optimization** | NumPy, Pandas, Optuna |
-| **Frontend** | React, Next.js |
-| **Version Control** | Git, GitHub Actions |
+### 💻 Languages
+
+Python • C++ • CUDA • SQL • JavaScript • TypeScript
 
 ---
 
-## 🏆 What I’m Proud Of
+### ⚙️ Backend & Systems
 
-- Built **ASTRA**, a full-stack AI career automation system used by students and peers.  
-- Experience with **LLM fine-tuning**, **prompt engineering**, and **low-latency inference**.  
-- Research contributions in **vision transformers**, **deformable attention**, and **medical imaging**.  
-- Strong background in **MLOps**, **experiment tracking**, and **repeatable pipelines**.  
-- Comfort with numerical optimization, CUDA kernels, and model performance tuning.
+FastAPI • Node.js • REST APIs • Microservices
+Docker • Kubernetes • Distributed Systems
+gRPC • Async Programming • System Design
 
 ---
 
-## 📊 Stats
+### 🎨 Frontend
+
+React • Next.js • Tailwind CSS
+UI/UX fundamentals • Component-based architecture
+
+---
+
+### 🤖 AI / ML / LLM
+
+PyTorch • TensorFlow • Scikit-learn
+Transformers • Hugging Face • LangChain
+LoRA • PEFT • Prompt Engineering
+
+---
+
+### ⚡ Model Optimization & Systems ML
+
+CUDA • TensorRT • ONNX • TorchScript
+Quantization • Low-latency inference
+Performance profiling & tuning
+
+---
+
+### 📊 Data Engineering & Analytics
+
+Pandas • NumPy • Data Pipelines
+ETL • Feature Engineering
+Optuna • Experimentation
+
+---
+
+### ☁️ Cloud & MLOps
+
+AWS • GCP
+MLflow • CI/CD • GitHub Actions
+Model Deployment & Monitoring
+
+---
+
+## 🏆 Highlights
+
+* Built **full-stack AI systems** used in real workflows
+* Strong foundation in **data structures, systems, and backend engineering**
+* Experience across **ML research → production deployment**
+* Worked on **LLMs, CV, distributed pipelines, and optimization**
+* Comfortable with **low-level performance (CUDA) → high-level product systems**
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Akash-Kadali&show_icons=true&rank_icon=github&include_all_commits=true" />
@@ -111,12 +182,19 @@ A local, privacy-first platform that reads job descriptions, aligns skill gaps, 
 
 ## 🔍 Open To
 
-- ML Engineer  
-- Applied AI / LLM Engineer  
-- Computer Vision Engineer  
-- MLOps / Infrastructure ML roles  
+* Software Engineer (Backend / Full Stack)
+* AI / ML Engineer
+* LLM / Applied AI Engineer
+* Data Engineer
+* Systems / Infrastructure Roles
 
-📫 **srikadaliakash@gmail.com**  
-🌐 **https://srikadali.com**  
+---
 
-<p align="center"><i>Keep building. Keep shipping.</i></p>
+## 📫 Contact
+
+📧 [srikadaliakash@gmail.com](mailto:srikadaliakash@gmail.com)
+🌐 https://srikadali.com
+
+---
+
+<p align="center"><i>Build systems. Scale ideas. Ship impact.</i></p>
