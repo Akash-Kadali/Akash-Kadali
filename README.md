@@ -1,268 +1,175 @@
-<h1 align="center">Hi 👋 I'm Sri Akash Kadali</h1>
-<h3 align="center">Software Engineer | AI/ML Systems | Full Stack | Scalable Infrastructure</h3>
+<div align="center">
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/sri-akash-kadali">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
-  </a>
+# Sri Akash Kadali
+
+**Software Engineer** · AI/ML Systems · Full Stack · Scalable Infrastructure
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sri-akash-kadali)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:srikadaliakash@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://www.srikadali.com)
+
+</div>
+
+<br/>
+
+> I build production-grade AI systems and scalable backend infrastructure that operate reliably under real-world constraints. I don't just train models — I **ship complete systems**.
+
+<br/>
+
+## Education
+
+| Degree | Institution | Year |
+|--------|------------|------|
+| **MS in Applied Machine Learning** | University of Maryland, College Park | 2026 |
+| **B.Tech in Computer Science** | IIIT Vadodara | 2024 |
+
+<br/>
+
+## Experience
+
+### Ayar Labs — ML Engineering Intern
+`Santa Clara, CA · Summer 2025`
+
+Built high-performance ML pipelines for hardware-aware optimization. Improved inference efficiency through model compression, profiling, and compute/memory bottleneck resolution at the systems layer.
+
+### IIT Indore — Software Engineer (ML/AI) Intern
+`2022 – 2024`
+
+Designed end-to-end ML systems spanning data ingestion through deployment. Built scalable pipelines for large structured and unstructured datasets with emphasis on feature engineering and hyperparameter tuning.
+
+### NIT Jaipur — Software Engineer (ML/AI) Intern
+`2024`
+
+Developed applied ML solutions focused on model generalization and deployment readiness across real-world datasets.
+
+<br/>
+
+## Featured Project
+
+### [ASTRA — AI Career Automation Platform](https://github.com/Akash-Kadali/ASTRA)
+
+A full-stack AI system automating resume optimization, job alignment, and content generation. Reduced manual resume tailoring effort by **>80%**.
+
+```
+Job Parsing → Embedding → Skill-Gap Analysis → Generation
+```
+
+**Stack:** FastAPI · PyWebView · LLM Reasoning Pipelines · Local-first Inference
+
+<br/>
+
+## Tech Stack
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**Languages**
+<br/><br/>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+**AI / ML / LLMs**
+<br/><br/>
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**Backend & Systems**
+<br/><br/>
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![gRPC](https://img.shields.io/badge/gRPC-244C5A?style=flat-square&logo=google&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+**Cloud & MLOps**
+<br/><br/>
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**Systems ML & Optimization**
+<br/><br/>
+![TensorRT](https://img.shields.io/badge/TensorRT-76B900?style=flat-square&logo=nvidia&logoColor=white)
+![ONNX](https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=onnx&logoColor=white)
+![Triton](https://img.shields.io/badge/Triton_Server-76B900?style=flat-square&logo=nvidia&logoColor=white)
+
+`Quantization` · `Pruning` · `Kernel Optimization` · `GPU Profiling`
+
+</td>
+<td width="50%" valign="top">
+
+**Frontend**
+<br/><br/>
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## What I Bring
+
+```
+Systems Engineering  ←→  Machine Learning
+```
+
+I work across the full depth of the stack — from writing **CUDA kernels** and optimizing inference latency, to building **distributed backend services**, to shipping **LLM-powered products** with clean UIs. The rare combination of low-level systems thinking and end-to-end product delivery.
+
+<br/>
+
+## GitHub Stats
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Akash-Kadali&show_icons=true&rank_icon=github&include_all_commits=true&theme=github_dark&hide_border=true&bg_color=0d1117" />
   &nbsp;&nbsp;
-  <a href="mailto:srikadaliakash@gmail.com">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.srikadali.com">
-    <img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" width="40"/>
-  </a>
-</p>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akash-Kadali&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0d1117" />
+</div>
 
----
+<br/>
 
-## 🚀 About Me
+## Open To
 
-I build **production-grade AI systems and scalable backend infrastructure** that operate reliably under real-world constraints.
+**Software Engineer** (Backend / Full Stack) · **AI/ML Engineer** · **LLM / Applied AI Engineer** · **Systems / Infrastructure Engineer**
 
-🔹 I specialize in:
+<br/>
 
-* **End-to-end system design** (API → distributed systems → ML pipelines → UI)
-* **LLM-powered applications & AI systems**
-* **High-performance ML & systems optimization (CUDA, inference tuning)**
+<div align="center">
 
-🔹 What differentiates me:
+[![Email](https://img.shields.io/badge/srikadaliakash@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:srikadaliakash@gmail.com)
+[![Website](https://img.shields.io/badge/srikadali.com-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://srikadali.com)
 
-* I don't just train models — I **ship complete systems**
-* I optimize for **latency, scalability, and production reliability**
-* I bridge **systems engineering + machine learning**
+<br/>
 
----
+*Build systems. Optimize performance. Ship real-world AI.*
 
-## 🎓 Education
-
-* **MS in Applied Machine Learning**, University of Maryland, College Park *(2026)*
-* **B.Tech in Computer Science**, IIIT Vadodara *(2024)*
-
----
-
-## 💼 Experience
-
-### 🚀 Ayar Labs — Machine Learning Engineering Intern
-
-*Santa Clara, CA | Summer 2024*
-
-* Built **high-performance ML pipelines** for hardware-aware optimization
-* Improved inference efficiency via **model compression & profiling**
-* Worked close to systems layer optimizing **compute + memory bottlenecks**
-
----
-
-### ⚙️ IIT Indore — Software Engineer (ML/AI) Intern
-
-*2022 – 2024*
-
-* Designed **end-to-end ML systems** from data ingestion → training → deployment
-* Built scalable pipelines handling **large structured + unstructured datasets**
-* Improved model performance using **feature engineering + hyperparameter tuning**
-
----
-
-### 🧠 NIT Jaipur — Software Engineer (ML/AI) Intern
-
-*2024*
-
-* Developed applied ML solutions across **real-world datasets**
-* Focused on **model generalization + deployment readiness**
-
----
-
-## 🌌 Flagship Project
-
-### 🔗 ASTRA — AI Career Automation Platform
-
-👉 https://github.com/Akash-Kadali/ASTRA
-
-A **full-stack AI system** that automates resume optimization, job alignment, and content generation.
-
-### ⚡ Architecture
-
-* **Backend:** FastAPI, async services, modular architecture
-* **Frontend/Desktop:** PyWebView + reactive UI
-* **AI Layer:** LLM reasoning, scoring pipelines, structured outputs
-* **Pipeline:** Job parsing → embedding → skill-gap analysis → generation
-* **Infra:** Local-first + optimized inference
-
-### 📈 Impact
-
-* Reduced manual resume tailoring effort by **>80%**
-* Designed **scalable AI pipeline architecture**
-* Built with **production-first mindset (not prototype ML)**
-
----
-
-## 🧠 Technical Depth
-
-### 💻 Languages
-
-Python • C++ • CUDA • SQL
-TypeScript • JavaScript • Bash
-
-✔ Strong in **performance-critical Python & C++ systems**
-✔ Experience writing **GPU kernels (CUDA) & low-level optimizations**
-
----
-
-### ⚙️ Backend & Systems Engineering
-
-**Core Stack:**
-FastAPI • Node.js • Express • REST • gRPC • WebSockets
-
-**Architecture & Systems:**
-Microservices • Distributed Systems • Event-Driven Architecture
-Async Programming • Concurrency • Multithreading • Multiprocessing
-
-**Infrastructure Patterns:**
-API Gateway • Service Discovery • Load Balancing
-Caching (Redis) • Message Queues (Kafka / RabbitMQ)
-
-**Databases:**
-PostgreSQL • MySQL • MongoDB • Redis
-
-✔ Designed **scalable backend systems handling high concurrency**
-✔ Built **low-latency APIs with async I/O and optimized DB access**
-✔ Experience with **system design: fault tolerance, retries, rate limiting**
-
----
-
-### 🤖 AI / ML / LLM Systems
-
-**Frameworks:**
-PyTorch • TensorFlow • Scikit-learn • XGBoost
-
-**LLM & GenAI Stack:**
-Transformers • Hugging Face • OpenAI APIs • LangChain • LlamaIndex
-
-**LLM Engineering:**
-Prompt Engineering • RAG • Agents • Tool Calling
-LoRA / PEFT Fine-Tuning • Instruction Tuning
-
-**Advanced Workflows:**
-Embedding Pipelines • Vector Search (FAISS / Pinecone)
-Semantic Search • Document Processing Pipelines
-
-✔ Built **end-to-end LLM systems (retrieval → reasoning → generation)**
-✔ Experience with **production-grade AI pipelines, not just experimentation**
-
----
-
-### ⚡ Systems ML & Optimization
-
-CUDA • TensorRT • ONNX • TorchScript • Triton (Inference Server)
-
-**Optimization Techniques:**
-Quantization (INT8 / FP16) • Pruning • Kernel Optimization
-Batching • Parallel Inference • Memory Optimization
-
-**Performance Engineering:**
-GPU Profiling (Nsight) • Throughput vs Latency tradeoffs
-Model compilation & graph optimization
-
-✔ Reduced inference latency via **hardware-aware optimizations**
-✔ Strong focus on **serving efficiency at scale**
-
----
-
-### 📊 Data Engineering & Pipelines
-
-Pandas • NumPy • PySpark (basic)
-
-**Pipelines & Processing:**
-ETL / ELT Pipelines • Data Validation • Data Versioning
-Feature Engineering • Data Cleaning at scale
-
-**Experimentation:**
-Optuna • Hyperparameter Tuning • A/B Testing
-
-✔ Built **data pipelines powering ML systems in production**
-✔ Experience handling **large-scale structured + unstructured data**
-
----
-
-### ☁️ Cloud, DevOps & MLOps
-
-**Cloud:**
-AWS (EC2, S3, Lambda, RDS) • GCP
-
-**Containerization & Orchestration:**
-Docker • Kubernetes
-
-**MLOps & Deployment:**
-MLflow • Model Versioning • Model Monitoring
-CI/CD • GitHub Actions
-
-**Serving & Infra:**
-Model Serving APIs • Autoscaling • Logging & Monitoring
-
-✔ Deployed **scalable ML services with CI/CD pipelines**
-✔ Experience with **production infra & model lifecycle management**
-
----
-
-### 🎨 Frontend Engineering
-
-React • Next.js • Tailwind CSS
-
-**Concepts:**
-Component Architecture • State Management • API Integration
-Responsive Design • UI/UX fundamentals
-
-✔ Built **full-stack applications with clean user experience**
-
----
-
-### 🧩 Additional Engineering Strengths
-
-* Strong foundation in **Data Structures & Algorithms**
-* Solid understanding of **Operating Systems & Networking**
-* Experience with **system design interviews & large-scale architecture**
-* Ability to **own systems end-to-end (design → build → deploy → optimize)**
-
----
-
-
-## 🏆 Highlights
-
-* Built **end-to-end AI products (not just models)**
-* Strong in **systems + ML intersection (rare combo)**
-* Experience with **LLMs, distributed systems, and optimization**
-* Comfortable across **low-level (CUDA) → full-stack applications**
-* Focused on **shipping real-world, production-ready systems**
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Akash-Kadali&show_icons=true&rank_icon=github&include_all_commits=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akash-Kadali&layout=compact&langs_count=10&card_width=420" />
-</p>
-
----
-
-## 🎯 Open To
-
-* Software Engineer (Backend / Full Stack)
-* AI / ML Engineer
-* LLM / Applied AI Engineer
-* Systems / Infrastructure Engineer
-
----
-
-## 📫 Contact
-
-📧 [srikadaliakash@gmail.com](mailto:srikadaliakash@gmail.com)
-🌐 https://srikadali.com
-
----
-
-<p align="center"><i>Build systems. Optimize performance. Ship real-world AI.</i></p>
+</div>
