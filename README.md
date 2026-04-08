@@ -1,16 +1,20 @@
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<!-- 🎨 ANIMATED SVG HEADER — Gradient wave with floating particles                -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!-- ╔════════════════════════════════════════════════════════════════════════════╗ -->
+<!-- ║                          🚀 FUTURISTIC README                             ║ -->
+<!-- ╚════════════════════════════════════════════════════════════════════════════╝ -->
 
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0d1117,25:161b22,50:1f6feb,75:161b22,100:0d1117&section=header&text=Sri%20Akash%20Kadali&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Software%20Engineer%20%E2%80%A2%20AI/ML%20Systems%20%E2%80%A2%20Full%20Stack%20%E2%80%A2%20Scalable%20Infrastructure&descSize=17&descColor=58a6ff&descAlignY=52&descAlign=50)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=340&color=0:050816,20:0b1023,45:1f6feb,65:7c3aed,85:00c2ff,100:050816&section=header&text=Sri%20Akash%20Kadali&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=Software%20Engineer%20%E2%80%A2%20AI/ML%20Systems%20%E2%80%A2%20Full%20Stack%20%E2%80%A2%20Scalable%20Infrastructure&descSize=20&descColor=dbeafe&descAlignY=55&descAlign=50" />
 
-<!-- ═══ ANIMATED TYPING SVG ═══ -->
+<br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=80&lines=%E2%9A%A1+I+don't+just+train+models+%E2%80%94+I+ship+complete+systems;%F0%9F%94%A7+Bridging+Systems+Engineering+%2B+Machine+Learning;%F0%9F%9A%80+Optimizing+for+Latency%2C+Scalability+%26+Production+Reliability)](https://git.io/typing-svg)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=28&duration=2600&pause=800&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=980&height=110&lines=%E2%9A%A1+I+don't+just+train+models+%E2%80%94+I+ship+complete+systems;%F0%9F%94%A7+Bridging+Systems+Engineering+%2B+Machine+Learning;%F0%9F%9A%80+Optimizing+for+Latency%2C+Scalability+%26+Production+Reliability" />
 
-<!-- ═══ SOCIAL LINKS ═══ -->
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&text=AI%20SYSTEMS%20%20%E2%97%86%20%20BACKEND%20ENGINEERING%20%20%E2%97%86%20%20OPTIMIZATION%20%20%E2%97%86%20%20PRODUCTION%20ML&fontAlign=50&fontAlignY=50&fontSize=22&height=55&color=0:0f172a,50:1f6feb,100:7c3aed&fontColor=ffffff&animation=twinkling" />
+
+<br/><br/>
 
 <a href="https://www.linkedin.com/in/sri-akash-kadali"><img src="https://img.shields.io/badge/%20-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
 <a href="mailto:srikadaliakash@gmail.com"><img src="https://img.shields.io/badge/%20-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;
@@ -18,45 +22,75 @@
 <a href="https://github.com/Akash-Kadali"><img src="https://img.shields.io/badge/%20-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>&nbsp;
 <img src="https://komarev.com/ghpvc/?username=Akash-Kadali&style=for-the-badge&color=1f6feb&label=PROFILE+VIEWS" />
 
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=soft&height=70&color=0:0d1117,30:1f6feb,60:7c3aed,100:00c2ff&text=SYSTEMS%20%7C%20ML%20%7C%20INFRASTRUCTURE%20%7C%20LLM%20APPLICATIONS&fontSize=22&fontColor=ffffff&animation=blinking" />
+
 </div>
 
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<!-- 🧑‍💻 ABOUT ME — YAML code block                                              -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" width="30" /> &nbsp;About Me
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" width="34" /> &nbsp;About Me
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=45&color=0:111827,50:1d4ed8,100:7c3aed&text=IDENTITY%20%20%E2%97%86%20%20BACKGROUND%20%20%E2%97%86%20%20FOCUS%20AREAS&fontSize=18&fontColor=ffffff" />
+</div>
 
 ```yaml
-╔══════════════════════════════════════════════════════════════════╗
-║                                                                  ║
-║   name       : Sri Akash Kadali                                  ║
-║   role       : Software Engineer | AI/ML Systems | Full Stack    ║
-║   location   : College Park, MD                                  ║
-║                                                                  ║
-║   education  :                                                   ║
-║     › MS in Applied Machine Learning                             ║
-║       University of Maryland, College Park (2026)                ║
-║     › B.Tech in Computer Science                                 ║
-║       IIIT Vadodara (2024)                                       ║
-║                                                                  ║
-║   focus      :                                                   ║
-║     › End-to-end system design                                   ║
-║       (API → Distributed Systems → ML Pipelines → UI)            ║
-║     › LLM-powered applications & AI systems                      ║
-║     › High-performance ML & systems optimization                 ║
-║       (CUDA, inference tuning)                                   ║
-║                                                                  ║
-║   philosophy : Build systems. Optimize performance.              ║
-║                Ship real-world AI.                                ║
-║                                                                  ║
-╚══════════════════════════════════════════════════════════════════╝
-```
+╔══════════════════════════════════════════════════════════════════════════════════════╗
+║                                                                                      ║
+║   ███████╗██████╗ ██╗     ██╗     ███████╗ ██████╗ ███████╗████████╗                ║
+║   ██╔════╝██╔══██╗██║     ██║     ██╔════╝██╔════╝ ██╔════╝╚══██╔══╝                ║
+║   ███████╗██████╔╝██║     ██║     █████╗  ██║  ███╗█████╗     ██║                   ║
+║   ╚════██║██╔══██╗██║     ██║     ██╔══╝  ██║   ██║██╔══╝     ██║                   ║
+║   ███████║██║  ██║██║     ███████╗███████╗╚██████╔╝███████╗   ██║                   ║
+║   ╚══════╝╚═╝  ╚═╝╚═╝     ╚══════╝╚══════╝ ╚═════╝ ╚══════╝   ╚═╝                   ║
+║                                                                                      ║
+║   name        : Sri Akash Kadali                                                     ║
+║   role        : Software Engineer | AI/ML Systems | Full Stack                       ║
+║   location    : College Park, MD                                                     ║
+║                                                                                      ║
+║   education   :                                                                      ║
+║     › MS in Applied Machine Learning                                                 ║
+║       University of Maryland, College Park (2026)                                    ║
+║                                                                                      ║
+║     › B.Tech in Computer Science                                                     ║
+║       IIIT Vadodara (2024)                                                           ║
+║                                                                                      ║
+║   focus       :                                                                      ║
+║     › End-to-end system design                                                       ║
+║       (API → Distributed Systems → ML Pipelines → UI)                                ║
+║                                                                                      ║
+║     › LLM-powered applications & AI systems                                          ║
+║                                                                                      ║
+║     › High-performance ML & systems optimization                                     ║
+║       (CUDA, inference tuning)                                                       ║
+║                                                                                      ║
+║   philosophy  :                                                                      ║
+║     › Build systems                                                                  ║
+║     › Optimize performance                                                           ║
+║     › Ship real-world AI                                                             ║
+║                                                                                      ║
+║   mindset     :                                                                      ║
+║     › Production-first                                                               ║
+║     › Latency-aware                                                                  ║
+║     › Reliability-focused                                                            ║
+║     › End-to-end ownership                                                           ║
+║                                                                                      ║
+╚══════════════════════════════════════════════════════════════════════════════════════╝
+````
 
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<!-- 🛠 TECH STACK                                                                 -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rounded&height=36&color=0:00c2ff,50:1f6feb,100:7c3aed&text=BUILD%20SYSTEMS%20%E2%97%86%20OPTIMIZE%20PERFORMANCE%20%E2%97%86%20SHIP%20REAL-WORLD%20AI&fontSize=14&fontColor=ffffff" />
+</div>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="28" /> &nbsp;Tech Stack
+---
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="30" />  Tech Stack
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=45&color=0:111827,40:0f766e,75:2563eb,100:7c3aed&text=TECH%20MATRIX%20%E2%97%86%20TOOLS%20%E2%97%86%20FRAMEWORKS%20%E2%97%86%20SYSTEMS&fontSize=18&fontColor=ffffff&animation=fadeIn" />
+</div>
 
 <details open>
 <summary><b>💻 Languages</b></summary>
@@ -256,15 +290,15 @@
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<!-- 💼 EXPERIENCE                                                                 -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=52&color=0:00c2ff,35:1f6feb,70:7c3aed,100:111827&text=CAREER%20TIMELINE%20%E2%97%86%20IMPACT%20%E2%97%86%20EXECUTION&fontSize=18&fontColor=ffffff&animation=twinkling" />
+</div>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" width="28" /> &nbsp;Experience
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" width="30" />  Experience
 
 <table>
 <tr>
-<td align="center" width="120">
+<td align="center" width="140">
 <br/>
 <img src="https://img.shields.io/badge/🚀-76B900?style=for-the-badge" /><br/>
 <b>Ayar Labs</b><br/>
@@ -273,16 +307,17 @@
 <td>
 
 ### Machine Learning Engineering Intern
+
 `Summer 2025`
 
-▸ Built **high-performance ML pipelines** for hardware-aware optimization \
-▸ Improved inference efficiency via **model compression & profiling** \
+▸ Built **high-performance ML pipelines** for hardware-aware optimization 
+▸ Improved inference efficiency via **model compression & profiling** 
 ▸ Worked close to systems layer optimizing **compute + memory bottlenecks**
 
 </td>
 </tr>
 <tr>
-<td align="center" width="120">
+<td align="center" width="140">
 <br/>
 <img src="https://img.shields.io/badge/⚙️-412991?style=for-the-badge" /><br/>
 <b>IIT Indore</b><br/>
@@ -291,16 +326,17 @@
 <td>
 
 ### Software Engineer (ML/AI) Intern
+
 `2022 – 2024`
 
-▸ Designed **end-to-end ML systems** from data ingestion → training → deployment \
-▸ Built scalable pipelines handling **large structured + unstructured datasets** \
+▸ Designed **end-to-end ML systems** from data ingestion → training → deployment 
+▸ Built scalable pipelines handling **large structured + unstructured datasets** 
 ▸ Improved model performance using **feature engineering + hyperparameter tuning**
 
 </td>
 </tr>
 <tr>
-<td align="center" width="120">
+<td align="center" width="140">
 <br/>
 <img src="https://img.shields.io/badge/🧠-EE4C2C?style=for-the-badge" /><br/>
 <b>NIT Jaipur</b><br/>
@@ -309,9 +345,10 @@
 <td>
 
 ### Software Engineer (ML/AI) Intern
+
 `2024`
 
-▸ Developed applied ML solutions across **real-world datasets** \
+▸ Developed applied ML solutions across **real-world datasets** 
 ▸ Focused on **model generalization + deployment readiness**
 
 </td>
@@ -320,15 +357,15 @@
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<!-- 🌌 FLAGSHIP PROJECT                                                           -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="28" /> &nbsp;Flagship Project
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="30" />  Flagship Project
 
 <div align="center">
 
-[![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=⭐%20ASTRA&text2=AI%20Career%20Automation%20Platform&width=800&height=120)](https://github.com/Akash-Kadali/ASTRA)
+[![SVG Banners](https://svg-banners.vercel.app/api?type=luminance\&text1=⭐%20ASTRA\&text2=AI%20Career%20Automation%20Platform\&width=900\&height=140)](https://github.com/Akash-Kadali/ASTRA)
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=44&color=0:111827,50:1f6feb,100:7c3aed&text=FLAGSHIP%20AI%20SYSTEM%20%E2%97%86%20AUTOMATION%20%E2%97%86%20SCALABLE%20WORKFLOW&fontSize=18&fontColor=ffffff" />
 
 </div>
 
@@ -340,10 +377,10 @@ graph LR
     B -->|match| C["📊 Skill-Gap Analysis"]
     C -->|generate| D["✨ Content Generation"]
     
-    style A fill:#1f6feb,stroke:#58a6ff,color:#ffffff,stroke-width:2px
-    style B fill:#da3633,stroke:#f85149,color:#ffffff,stroke-width:2px
-    style C fill:#238636,stroke:#3fb950,color:#ffffff,stroke-width:2px
-    style D fill:#8957e5,stroke:#bc8cff,color:#ffffff,stroke-width:2px
+    style A fill:#1f6feb,stroke:#58a6ff,color:#ffffff,stroke-width:3px
+    style B fill:#da3633,stroke:#f85149,color:#ffffff,stroke-width:3px
+    style C fill:#238636,stroke:#3fb950,color:#ffffff,stroke-width:3px
+    style D fill:#8957e5,stroke:#bc8cff,color:#ffffff,stroke-width:3px
 ```
 
 <table>
@@ -352,23 +389,23 @@ graph LR
 
 ### ⚡ Architecture
 
-| Layer | Stack |
-|:---|:---|
-| 🔧 **Backend** | FastAPI, async services, modular architecture |
-| 🖥 **Frontend/Desktop** | PyWebView + reactive UI |
-| 🤖 **AI Layer** | LLM reasoning, scoring pipelines, structured outputs |
-| 🏗 **Infra** | Local-first + optimized inference |
+| Layer                   | Stack                                                |
+| :---------------------- | :--------------------------------------------------- |
+| 🔧 **Backend**          | FastAPI, async services, modular architecture        |
+| 🖥 **Frontend/Desktop** | PyWebView + reactive UI                              |
+| 🤖 **AI Layer**         | LLM reasoning, scoring pipelines, structured outputs |
+| 🏗 **Infra**            | Local-first + optimized inference                    |
 
 </td>
 <td width="50%">
 
 ### 📈 Impact
 
-| Metric | Result |
-|:---|:---|
-| ⏱ Resume Tailoring Effort | **Reduced by >80%** |
-| 🏗 Architecture | **Scalable AI pipeline** |
-| 🎯 Mindset | **Production-first (not prototype)** |
+| Metric                    | Result                               |
+| :------------------------ | :----------------------------------- |
+| ⏱ Resume Tailoring Effort | **Reduced by >80%**                  |
+| 🏗 Architecture           | **Scalable AI pipeline**             |
+| 🎯 Mindset                | **Production-first (not prototype)** |
 
 </td>
 </tr>
@@ -376,90 +413,94 @@ graph LR
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<!-- 🧩 ENGINEERING STRENGTHS                                                      -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Puzzle%20Piece.png" width="28" /> &nbsp;Engineering Strengths
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Puzzle%20Piece.png" width="30" />  Engineering Strengths
 
 <div align="center">
 
-|  |  |  |  |
-|:---:|:---:|:---:|:---:|
+<img src="https://capsule-render.vercel.app/api?type=rounded&height=42&color=0:111827,35:1f6feb,70:7c3aed,100:00c2ff&text=CORE%20ENGINEERING%20DIMENSIONS&fontSize=18&fontColor=ffffff" />
+
+<br/><br/>
+
+|                                                                                                        |                                                                                                                       |                                                                                                                      |                                                                                                                  |
+| :----------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------: |
 | <img src="https://img.shields.io/badge/DSA-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/> | <img src="https://img.shields.io/badge/OS%20%26%20Networking-FCC624?style=for-the-badge&logo=linux&logoColor=black"/> | <img src="https://img.shields.io/badge/System%20Design-58A6FF?style=for-the-badge&logo=databricks&logoColor=white"/> | <img src="https://img.shields.io/badge/E2E%20Ownership-3FB950?style=for-the-badge&logo=rocket&logoColor=white"/> |
-| Data Structures & Algorithms | Operating Systems & Networking | Large-Scale Architecture | Design → Build → Deploy → Optimize |
+|                                      Data Structures & Algorithms                                      |                                             Operating Systems & Networking                                            |                                               Large-Scale Architecture                                               |                                        Design → Build → Deploy → Optimize                                        |
 
 </div>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<!-- 🏆 HIGHLIGHTS                                                                 -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" width="28" /> &nbsp;Highlights
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" width="30" />  Highlights
 
 <div align="center">
 
-```
-╔═══════════════════════════════════════════════════════════╗
-║                                                           ║
-║   🏗  Built end-to-end AI products (not just models)       ║
-║   🔀  Strong in systems + ML intersection (rare combo)     ║
-║   🤖  Experience with LLMs, distributed systems, and       ║
-║       optimization                                        ║
-║   ⚡  Comfortable across low-level (CUDA) → full-stack     ║
-║   🚀  Focused on shipping real-world, production-ready     ║
-║       systems                                             ║
-║                                                           ║
-╚═══════════════════════════════════════════════════════════╝
-```
+<img src="https://capsule-render.vercel.app/api?type=rect&height=48&color=0:111827,50:2563eb,100:00c2ff&text=WHY%20I%20STAND%20OUT&fontSize=19&fontColor=ffffff&animation=fadeIn" />
 
 </div>
 
+```text
+╔══════════════════════════════════════════════════════════════════════════════════════╗
+║                                                                                      ║
+║   ██╗  ██╗██╗ ██████╗ ██╗  ██╗██╗     ██╗ ██████╗ ██╗  ██╗████████╗███████╗         ║
+║   ██║  ██║██║██╔════╝ ██║  ██║██║     ██║██╔════╝ ██║  ██║╚══██╔══╝██╔════╝         ║
+║   ███████║██║██║  ███╗███████║██║     ██║██║  ███╗███████║   ██║   ███████╗         ║
+║   ██╔══██║██║██║   ██║██╔══██║██║     ██║██║   ██║██╔══██║   ██║   ╚════██║         ║
+║   ██║  ██║██║╚██████╔╝██║  ██║███████╗██║╚██████╔╝██║  ██║   ██║   ███████║         ║
+║   ╚═╝  ╚═╝╚═╝ ╚═════╝ ╚═╝  ╚═╝╚══════╝╚═╝ ╚═════╝ ╚═╝  ╚═╝   ╚═╝   ╚══════╝         ║
+║                                                                                      ║
+║   🏗  Built end-to-end AI products (not just models)                                 ║
+║                                                                                      ║
+║   🔀  Strong in systems + ML intersection (rare combo)                               ║
+║                                                                                      ║
+║   🤖  Experience with LLMs, distributed systems, and optimization                    ║
+║                                                                                      ║
+║   ⚡  Comfortable across low-level (CUDA) → full-stack                               ║
+║                                                                                      ║
+║   🚀  Focused on shipping real-world, production-ready systems                       ║
+║                                                                                      ║
+║   🧠  Thinks across architecture, performance, infrastructure, and product           ║
+║                                                                                      ║
+╚══════════════════════════════════════════════════════════════════════════════════════╝
+```
+
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<!-- 📊 GITHUB ANALYTICS                                                           -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="28" /> &nbsp;GitHub Analytics
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="30" />  GitHub Analytics
 
 <div align="center">
 
-<!-- Stats + Languages side by side -->
+<img src="https://capsule-render.vercel.app/api?type=rect&height=48&color=0:111827,50:1f6feb,100:7c3aed&text=LIVE%20METRICS%20%E2%97%86%20ACTIVITY%20%E2%97%86%20CONSISTENCY&fontSize=18&fontColor=ffffff&animation=twinkling" />
+
+<br/><br/>
+
 <a href="https://github.com/Akash-Kadali">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Akash-Kadali&show_icons=true&rank_icon=github&include_all_commits=true&theme=github_dark&hide_border=true&bg_color=00000000&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&ring_color=1f6feb" />
+  <img height="200" src="https://github-readme-stats.vercel.app/api?username=Akash-Kadali&show_icons=true&rank_icon=github&include_all_commits=true&theme=github_dark&hide_border=true&bg_color=00000000&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&ring_color=7c3aed" />
 </a>
 &nbsp;&nbsp;&nbsp;
 <a href="https://github.com/Akash-Kadali">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akash-Kadali&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=00000000&title_color=58a6ff&text_color=c9d1d9" />
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akash-Kadali&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=00000000&title_color=58a6ff&text_color=c9d1d9" />
 </a>
 
 <br/><br/>
 
-<!-- Streak Stats -->
 <a href="https://github.com/Akash-Kadali">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akash-Kadali&theme=github-dark-blue&hide_border=true&background=00000000&stroke=1f6feb&ring=1f6feb&fire=f85149&currStreakLabel=58a6ff&sideLabels=58a6ff&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akash-Kadali&theme=github-dark-blue&hide_border=true&background=00000000&stroke=7c3aed&ring=1f6feb&fire=f85149&currStreakLabel=58a6ff&sideLabels=58a6ff&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" />
 </a>
 
 <br/><br/>
 
-<!-- Trophies -->
 <a href="https://github.com/Akash-Kadali">
-  <img src="https://github-profile-trophy.vercel.app/?username=Akash-Kadali&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Akash-Kadali&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=8" />
 </a>
 
 <br/><br/>
 
-<!-- Activity Graph -->
 <a href="https://github.com/Akash-Kadali">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Akash-Kadali&theme=github-compact&hide_border=true&bg_color=00000000&color=58a6ff&line=1f6feb&point=f85149&area=true&area_color=1f6feb" />
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Akash-Kadali&theme=github-compact&hide_border=true&bg_color=00000000&color=58a6ff&line=7c3aed&point=00c2ff&area=true&area_color=1f6feb" />
 </a>
 
 <br/><br/>
 
-<!-- Snake Contribution Animation -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Akash-Kadali/Akash-Kadali/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Akash-Kadali/Akash-Kadali/output/github-snake.svg" />
@@ -472,43 +513,36 @@ graph LR
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<!-- 🎯 OPEN TO                                                                    -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Direct%20Hit.png" width="28" /> &nbsp;Open To
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Direct%20Hit.png" width="30" />  Open To
 
 <div align="center">
 
-<a href="#"><img src="https://img.shields.io/badge/Software_Engineer_(Backend_/_Full_Stack)-1f6feb?style=for-the-badge&logo=fastapi&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/AI_/_ML_Engineer-da3633?style=for-the-badge&logo=pytorch&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/LLM_/_Applied_AI_Engineer-8957e5?style=for-the-badge&logo=openai&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Systems_/_Infrastructure_Engineer-238636?style=for-the-badge&logo=kubernetes&logoColor=white"/></a>
+<img src="https://capsule-render.vercel.app/api?type=rounded&height=42&color=0:111827,40:1f6feb,80:7c3aed,100:00c2ff&text=ROLES%20OF%20INTEREST&fontSize=18&fontColor=ffffff" />
+
+<br/><br/>
+
+<a href="#"><img src="https://img.shields.io/badge/Software_Engineer_(Backend_/_Full_Stack)-1f6feb?style=for-the-badge&logo=fastapi&logoColor=white"/></a> <a href="#"><img src="https://img.shields.io/badge/AI_/_ML_Engineer-da3633?style=for-the-badge&logo=pytorch&logoColor=white"/></a> <a href="#"><img src="https://img.shields.io/badge/LLM_/_Applied_AI_Engineer-8957e5?style=for-the-badge&logo=openai&logoColor=white"/></a> <a href="#"><img src="https://img.shields.io/badge/Systems_/_Infrastructure_Engineer-238636?style=for-the-badge&logo=kubernetes&logoColor=white"/></a>
 
 </div>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<!-- 📫 CONTACT                                                                    -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Incoming%20Envelope.png" width="28" /> &nbsp;Let's Connect
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Incoming%20Envelope.png" width="30" />  Let's Connect
 
 <div align="center">
 
-<a href="mailto:srikadaliakash@gmail.com"><img src="https://img.shields.io/badge/srikadaliakash@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;
-<a href="https://srikadali.com"><img src="https://img.shields.io/badge/srikadali.com-FF6B6B?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>&nbsp;
-<a href="https://www.linkedin.com/in/sri-akash-kadali"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=46&color=0:111827,50:1f6feb,100:7c3aed&text=CONTACT%20CHANNELS%20%E2%97%86%20LET'S%20BUILD%20SOMETHING&fontSize=18&fontColor=ffffff&animation=fadeIn" />
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=1f6feb&text=Build%20systems.%20Optimize%20performance.%20Ship%20real-world%20AI.&fontSize=18&fontColor=ffffff&height=50&animation=twinkling" />
+<a href="mailto:srikadaliakash@gmail.com"><img src="https://img.shields.io/badge/srikadaliakash@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>  <a href="https://srikadali.com"><img src="https://img.shields.io/badge/srikadali.com-FF6B6B?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>  <a href="https://www.linkedin.com/in/sri-akash-kadali"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1f6feb,50:7c3aed,100:00c2ff&text=Build%20systems.%20Optimize%20performance.%20Ship%20real-world%20AI.&fontSize=19&fontColor=ffffff&height=55&animation=twinkling" />
 
 </div>
 
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<!-- 🌊 FOOTER                                                                     -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:0d1117,25:161b22,50:1f6feb,75:161b22,100:0d1117&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:050816,20:0b1023,50:1f6feb,75:7c3aed,100:050816&section=footer" />
